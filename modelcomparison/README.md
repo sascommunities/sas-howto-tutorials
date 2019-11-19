@@ -1,4 +1,4 @@
-# How to compare models in SAS video 
+# How to compare models in SAS 
 
 ![Jeff still](https://img.youtube.com/vi/jRr3yrRKZp4/0.jpg)
 
