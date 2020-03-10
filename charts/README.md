@@ -13,7 +13,7 @@ Use the [CatT_QCVideosDataGen.sas](CatT_QCVideosDataGen.sas) program to retrieve
 ![Cat still](https://img.youtube.com/vi/rTC7JGJy2JY/0.jpg)
 
 
-# [What is Pareto Analysis??](https://www.youtube.com/watch?v=muA2pFNOo_I&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
+# [What is Pareto Analysis?](https://www.youtube.com/watch?v=muA2pFNOo_I&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
 
 Use the [CatT_QCVideosDataGen.sas](CatT_QCVideosDataGen.sas) program to retrieve the Complaints data set and [follow along with Cat in her How To video](https://www.youtube.com/watch?v=muA2pFNOo_I&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
 
