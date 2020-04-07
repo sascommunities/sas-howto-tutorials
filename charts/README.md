@@ -18,3 +18,9 @@ Use the [CatT_QCVideosDataGen.sas](CatT_QCVideosDataGen.sas) program to retrieve
 Use the [CatT_QCVideosDataGen.sas](CatT_QCVideosDataGen.sas) program to retrieve the Complaints data set and [follow along with Cat in her How To video](https://www.youtube.com/watch?v=muA2pFNOo_I&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
 
 ![Cat still](https://img.youtube.com/vi/muA2pFNOo_I/0.jpg)
+
+# [What is ANOM (analysis of means)?](https://www.youtube.com/watch?v=0lnx_LrQibQ&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
+
+Use the [CatT_QCVideosDataGen.sas](CatT_QCVideosDataGen.sas) program to retrieve the Impatient and Payout data sets and [follow along with Cat in her How To video](https://www.youtube.com/watch?v=0lnx_LrQibQ&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
+
+![Cat still](https://img.youtube.com/vi/0lnx_LrQibQ/0.jpg)
