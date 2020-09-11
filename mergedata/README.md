@@ -8,7 +8,7 @@ Use the [SASUsers_MergingDataPROCSQL.sas](SASUsers_MergingDataPROCSQL.sas) progr
 
 # [Combining data in SAS: DATA step versus SQL]( URL to come )
 
-Use the [party data set]( URL ) to [follow along with Dominique in her How To video]( URL to come).
+Use the [partydataset.xlsx](./partydataset.xlsx) to [follow along with Dominique in her How To video]( URL to come).
 
 ![Dominique still]( Image URL to come )
 
