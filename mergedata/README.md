@@ -10,5 +10,5 @@ Use the [SASUsers_MergingDataPROCSQL.sas](SASUsers_MergingDataPROCSQL.sas) progr
 
 Use the [Partydataset.xlsx](./Partydataset.xlsx) to [follow along with Dominique in her How To video](https://www.youtube.com/watch?v=ksZH_LoXnKk&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
 
-![Dominique still]( Image https://img.youtube.com/vi/ksZH_LoXnKk/0.jpg)
+![Dominique still](https://img.youtube.com/vi/ksZH_LoXnKk/0.jpg)
 
