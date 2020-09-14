@@ -6,9 +6,9 @@ Use the [SASUsers_MergingDataPROCSQL.sas](SASUsers_MergingDataPROCSQL.sas) progr
 
 ![Anna Y still](https://img.youtube.com/vi/dhf747bz_nE/0.jpg)
 
-# [Combining data in SAS: DATA step versus SQL]( URL to come )
+# [Combining data in SAS: DATA step versus SQL](https://www.youtube.com/watch?v=ksZH_LoXnKk&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
 
-Use the [Partydataset.xlsx](./Partydataset.xlsx) to [follow along with Dominique in her How To video]( URL to come).
+Use the [Partydataset.xlsx](./Partydataset.xlsx) to [follow along with Dominique in her How To video](https://www.youtube.com/watch?v=ksZH_LoXnKk&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
 
-![Dominique still]( Image URL to come )
+![Dominique still]( Image https://img.youtube.com/vi/ksZH_LoXnKk/0.jpg)
 
