@@ -1,10 +1,10 @@
 # Code for network optimization videos 
 
-![Carlos still](https://img.youtube.com/vi/XXXX/0.jpg)
+![Carlos still](https://img.youtube.com/vi/pcs2yGELmH8/0.jpg)
 
 How to plan an optimal tour of London using SAS network optimization
 
-Use the [TourLondonExample.sas](TourLondonExample.sas) code to [follow along with Carlos in his How To video](video url).
+Use the [TourLondonExample.sas](TourLondonExample.sas) code to [follow along with Carlos in his How To video](https://www.youtube.com/watch?v=pcs2yGELmH8&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
 
 ![Carlos still](https://img.youtube.com/vi/XXXX/0.jpg)
 
