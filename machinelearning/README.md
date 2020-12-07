@@ -1,10 +1,10 @@
 # Sample data for machine learning videos 
 
-# [How to choose a machine learning model](XXX)
+# [How to choose a machine learning algorithm](https://www.youtube.com/watch?v=-oZcf0QEzYM&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
 
-Use the [commsdata.sas7bdat](commsdata.sas7bdat) data set to [follow along with Aurora in her How To video](XXX).
+Use the [commsdata.sas7bdat](commsdata.sas7bdat) data set to [follow along with Aurora in her How To video](https://www.youtube.com/watch?v=-oZcf0QEzYM&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
 
-![Aurora ML models still](XXX)
+![Aurora ML models still](https://img.youtube.com/vi/-oZcf0QEzYM/0.jpg)
 
 
 Use this sample [get-titanic-data.sas](get-titanic-data.sas) program to retrieve the Titanic manifest data that Ari mentions in his videos: 
