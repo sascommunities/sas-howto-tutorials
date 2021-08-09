@@ -1,8 +1,12 @@
 # Sample data for machine learning videos 
 
-# [How to choose a machine learning algorithm](https://www.youtube.com/watch?v=-oZcf0QEzYM&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
+Use the [commsdata.sas7bdat](commsdata.sas7bdat) data set to follow along with Aurora in her videos:
 
-Use the [commsdata.sas7bdat](commsdata.sas7bdat) data set to [follow along with Aurora in her How To video](https://www.youtube.com/watch?v=-oZcf0QEzYM&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87).
+# [How to pick hyperparameters of machine learning models](https://www.youtube.com/watch?v=AOR7XnCB_JA&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
+
+![Aurora Hyperparameters ML models still](https://img.youtube.com/vi/AOR7XnCB_JA/0.jpg)
+
+# [How to choose a machine learning algorithm](https://www.youtube.com/watch?v=-oZcf0QEzYM&list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87)
 
 ![Aurora ML models still](https://img.youtube.com/vi/-oZcf0QEzYM/0.jpg)
 
