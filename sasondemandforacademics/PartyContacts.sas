@@ -1,4 +1,4 @@
-libname party xlsx "C:/Users/doweat/Desktop/SAS Users tutorial/party.xlsx";
+libname party xlsx "<insert-path>/party.xlsx";
 
 title "Party invitation contact information";
 
