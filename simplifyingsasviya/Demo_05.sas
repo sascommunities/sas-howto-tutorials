@@ -60,7 +60,7 @@ QUIT;
 /* Load CSV file using PROC CASUTIL */
 
 PROC CASUTIL;
-   LOAD FILE="/export/viya/homes/carleighjo.crabtree@sas.com/AirTraffic/airport_traffic_2020.csv"  
+   LOAD FILE="home/student/workshop/SSV/airport_traffic_2020.csv"  
    CASOUT="EU_Air_2020" 
    OUTCASLIB="casuser" 
    PROMOTE;
