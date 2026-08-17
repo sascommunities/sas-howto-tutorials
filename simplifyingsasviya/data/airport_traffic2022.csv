@@ -1,0 +1,999 @@
+﻿YEAR,MONTH_NUM,MONTH_MON,FLT_DATE,APT_ICAO,APT_NAME,STATE_NAME,FLT_DEP_1,FLT_ARR_1,FLT_TOT_1,FLT_DEP_IFR_2,FLT_ARR_IFR_2,FLT_TOT_IFR_2
+2022,1,JAN,1/1/2022,LATI,Tirana,Albania,26,25,51,,,
+2022,1,JAN,1/1/2022,UDYZ,Yerevan,Armenia,29,30,59,,,
+2022,1,JAN,1/1/2022,LOWG,Graz,Austria,5,5,10,,,
+2022,1,JAN,1/1/2022,LOWI,Innsbruck,Austria,21,21,42,,,
+2022,1,JAN,1/1/2022,LOWK,Klagenfurt,Austria,2,2,4,,,
+2022,1,JAN,1/1/2022,LOWL,Linz,Austria,5,3,8,,,
+2022,1,JAN,1/1/2022,LOWS,Salzburg,Austria,36,37,73,,,
+2022,1,JAN,1/1/2022,LOWW,Vienna,Austria,155,146,301,155,146,301
+2022,1,JAN,1/1/2022,EBAW,Antwerp,Belgium,9,8,17,,,
+2022,1,JAN,1/1/2022,EBAW,Antwerp,Belgium,9,8,17,,,
+2022,1,JAN,1/1/2022,EBBR,Brussels,Belgium,148,150,298,148,150,298
+2022,1,JAN,1/1/2022,EBCI,Charleroi,Belgium,54,54,108,54,54,108
+2022,1,JAN,1/1/2022,EBLG,LiÃ¨ge,Belgium,28,24,52,,,
+2022,1,JAN,1/1/2022,EBOS,Ostend-Bruges,Belgium,7,5,12,,,
+2022,1,JAN,1/1/2022,LQSA,Sarajevo,Bosnia and Herzegovina,8,8,16,,,
+2022,1,JAN,1/1/2022,LBSF,Sofia,Bulgaria,50,48,98,50,47,97
+2022,1,JAN,1/1/2022,LDZA,Zagreb,Croatia,28,30,58,28,30,58
+2022,1,JAN,1/1/2022,LCLK,Larnaca,Cyprus,40,37,77,,,
+2022,1,JAN,1/1/2022,LCPH,Paphos,Cyprus,25,27,52,,,
+2022,1,JAN,1/1/2022,LKMT,Ostrava,Czech Republic,1,1,2,,,
+2022,1,JAN,1/1/2022,LKPR,Prague,Czech Republic,80,74,154,79,74,153
+2022,1,JAN,1/1/2022,LKTB,Brno-TuÅ™any,Czech Republic,1,1,2,,,
+2022,1,JAN,1/1/2022,EKCH,Copenhagen - Kastrup,Denmark,138,143,281,138,143,281
+2022,1,JAN,1/1/2022,EETN,Tallinn,Estonia,31,30,61,32,30,62
+2022,1,JAN,1/1/2022,EFHK,Helsinki - Vantaa,Finland,140,141,281,140,141,281
+2022,1,JAN,1/1/2022,LFBD,Bordeaux-MÃ©rignac,France,51,51,102,,,
+2022,1,JAN,1/1/2022,LFBE,Bergerac-RoumaniÃ¨re,France,3,3,6,,,
+2022,1,JAN,1/1/2022,LFBI,Poitiers-Biard,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFBL,Limoges-Bellegarde,France,2,1,3,,,
+2022,1,JAN,1/1/2022,LFBO,Toulouse-Blagnac,France,54,55,109,54,54,108
+2022,1,JAN,1/1/2022,LFBP,Pau-PyrÃ©nÃ©es,France,4,5,9,,,
+2022,1,JAN,1/1/2022,LFBT,Tarbes-Lourdes PyrÃ©nÃ©es,France,4,4,8,,,
+2022,1,JAN,1/1/2022,LFBZ,Biarritz-Bayonne-Anglet,France,6,5,11,,,
+2022,1,JAN,1/1/2022,LFGJ,DÃ´le-Tavaux,France,0,1,1,,,
+2022,1,JAN,1/1/2022,LFJL,Metz-Nancy-Lorraine,France,0,2,2,,,
+2022,1,JAN,1/1/2022,LFKB,Bastia-Poretta,France,22,21,43,,,
+2022,1,JAN,1/1/2022,LFKC,Calvi-Sainte-Catherine,France,3,5,8,,,
+2022,1,JAN,1/1/2022,LFKF,Figari-Sud Corse,France,6,6,12,,,
+2022,1,JAN,1/1/2022,LFKJ,Ajaccio-NapolÃ©on-Bonaparte,France,15,14,29,,,
+2022,1,JAN,1/1/2022,LFLB,ChambÃ©ry-Aix-les-Bains,France,21,18,39,,,
+2022,1,JAN,1/1/2022,LFLC,Clermont-Ferrand-Auvergne,France,4,3,7,,,
+2022,1,JAN,1/1/2022,LFLI,Annemasse,France,3,3,6,,,
+2022,1,JAN,1/1/2022,LFLL,Lyon-Saint-ExupÃ©ry,France,74,75,149,75,77,152
+2022,1,JAN,1/1/2022,LFLP,Annecy-Meythet,France,3,4,7,,,
+2022,1,JAN,1/1/2022,LFLS,Grenoble-IsÃ¨re,France,16,17,33,,,
+2022,1,JAN,1/1/2022,LFLX,ChÃ¢teauroux-DÃ©ols,France,2,2,4,,,
+2022,1,JAN,1/1/2022,LFLY,Lyon-Bron,France,4,2,6,,,
+2022,1,JAN,1/1/2022,LFMD,Cannes-Mandelieu,France,7,6,13,,,
+2022,1,JAN,1/1/2022,LFMH,Saint-Etienne-BouthÃ©on,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFML,Marseille-Provence,France,74,75,149,74,75,149
+2022,1,JAN,1/1/2022,LFMN,Nice-CÃ´te dâ€™Azur,France,105,103,208,105,102,207
+2022,1,JAN,1/1/2022,LFMP,Perpignan-Rivesaltes,France,5,5,10,,,
+2022,1,JAN,1/1/2022,LFMT,Montpellier-MÃ©diterranÃ©e,France,14,17,31,,,
+2022,1,JAN,1/1/2022,LFMU,BÃ©ziers-Vias,France,2,2,4,,,
+2022,1,JAN,1/1/2022,LFMV,Avignon-Caumont,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFOB,Beauvais-TillÃ©,France,35,35,70,,,
+2022,1,JAN,1/1/2022,LFOK,ChÃ¢lons-Vatry,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFOP,Rouen,France,1,2,3,,,
+2022,1,JAN,1/1/2022,LFOT,Tours-Val de Loire,France,3,2,5,,,
+2022,1,JAN,1/1/2022,LFPB,Paris-Le Bourget,France,34,35,69,,,
+2022,1,JAN,1/1/2022,LFPG,Paris-Charles-de-Gaulle,France,426,410,836,425,408,833
+2022,1,JAN,1/1/2022,LFPN,Toussus-le-Noble,France,6,7,13,,,
+2022,1,JAN,1/1/2022,LFPO,Paris-Orly,France,222,220,442,222,220,442
+2022,1,JAN,1/1/2022,LFQQ,Lille-Lesquin,France,13,14,27,,,
+2022,1,JAN,1/1/2022,LFRB,Brest-Bretagne,France,7,8,15,,,
+2022,1,JAN,1/1/2022,LFRD,Dinard-Pleurtuit-Saint-Malo,France,1,0,1,,,
+2022,1,JAN,1/1/2022,LFRG,Deauville-Normandie,France,2,1,3,,,
+2022,1,JAN,1/1/2022,LFRK,Caen-Carpiquet,France,0,1,1,,,
+2022,1,JAN,1/1/2022,LFRM,Le Mans,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFRN,Rennes-Saint-Jacques,France,7,7,14,,,
+2022,1,JAN,1/1/2022,LFRQ,Quimper-Pluguffan,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFRS,Nantes-Atlantique,France,54,54,108,,,
+2022,1,JAN,1/1/2022,LFRZ,Saint-Nazaire-Montoir,France,1,1,2,,,
+2022,1,JAN,1/1/2022,LFSB,BÃ¢le-Mulhouse,France,74,72,146,148,72,220
+2022,1,JAN,1/1/2022,LFST,Strasbourg-Entzheim,France,10,10,20,,,
+2022,1,JAN,1/1/2022,LFTH,HyÃ¨res-Le Palyvestre,France,4,4,8,,,
+2022,1,JAN,1/1/2022,LFTW,NÃ®mes-Garons,France,1,0,1,,,
+2022,1,JAN,1/1/2022,UGTB,Tbilisi,Georgia,27,28,55,,,
+2022,1,JAN,1/1/2022,EDDB,Berlin - Brandenburg,Germany,148,147,295,148,147,295
+2022,1,JAN,1/1/2022,EDDC,Dresden,Germany,5,7,12,5,7,12
+2022,1,JAN,1/1/2022,EDDE,Erfurt,Germany,0,1,1,0,1,1
+2022,1,JAN,1/1/2022,EDDF,Frankfurt,Germany,391,341,732,390,341,731
+2022,1,JAN,1/1/2022,EDDG,Muenster-Osnabrueck,Germany,6,6,12,5,6,11
+2022,1,JAN,1/1/2022,EDDH,Hamburg,Germany,78,81,159,78,81,159
+2022,1,JAN,1/1/2022,EDDK,Cologne-Bonn,Germany,60,54,114,62,55,117
+2022,1,JAN,1/1/2022,EDDL,Dusseldorf,Germany,103,98,201,103,98,201
+2022,1,JAN,1/1/2022,EDDM,Munich,Germany,275,262,537,275,262,537
+2022,1,JAN,1/1/2022,EDDN,Nuremberg,Germany,13,14,27,14,15,29
+2022,1,JAN,1/1/2022,EDDP,Leipzig-Halle,Germany,43,40,83,43,40,83
+2022,1,JAN,1/1/2022,EDDS,Stuttgart,Germany,43,48,91,42,47,89
+2022,1,JAN,1/1/2022,EDDV,Hanover,Germany,29,31,60,28,30,58
+2022,1,JAN,1/1/2022,EDDW,Bremen,Germany,11,15,26,13,16,29
+2022,1,JAN,1/1/2022,LGAV,Athens,Greece,136,133,269,136,132,268
+2022,1,JAN,1/1/2022,LGIR,Heraklion,Greece,8,9,17,,,
+2022,1,JAN,1/1/2022,LGKF,Kefallinia,Greece,0,1,1,,,
+2022,1,JAN,1/1/2022,LGKO,Kos,Greece,2,2,4,,,
+2022,1,JAN,1/1/2022,LGKR,Corfu,Greece,3,3,6,,,
+2022,1,JAN,1/1/2022,LGMK,Mikonos,Greece,1,1,2,,,
+2022,1,JAN,1/1/2022,LGPZ,Aktion,Greece,1,1,2,,,
+2022,1,JAN,1/1/2022,LGRP,Rodos,Greece,7,8,15,,,
+2022,1,JAN,1/1/2022,LGSA,Khania - Souda,Greece,5,9,14,,,
+2022,1,JAN,1/1/2022,LGSR,Santorini,Greece,5,5,10,,,
+2022,1,JAN,1/1/2022,LGTS,Thessaloniki,Greece,39,39,78,,,
+2022,1,JAN,1/1/2022,LHBP,Budapest - Ferihegy,Hungary,91,88,179,90,88,178
+2022,1,JAN,1/1/2022,EICK,Cork,Ireland,17,18,35,18,19,37
+2022,1,JAN,1/1/2022,EIDL,Donegal,Ireland,2,2,4,,,
+2022,1,JAN,1/1/2022,EIDW,Dublin,Ireland,185,184,369,185,184,369
+2022,1,JAN,1/1/2022,EIKN,Connaught,Ireland,7,7,14,,,
+2022,1,JAN,1/1/2022,EIKY,Kerry - Farranfore,Ireland,4,4,8,,,
+2022,1,JAN,1/1/2022,EINN,Shannon,Ireland,12,13,25,,,
+2022,1,JAN,1/1/2022,LLBG,Tel Aviv - Ben Gurion International,Israel,78,84,162,,,
+2022,1,JAN,1/1/2022,LIBR,Brindisi,Italy,19,19,38,,,
+2022,1,JAN,1/1/2022,LICC,Catania,Italy,72,71,143,72,71,143
+2022,1,JAN,1/1/2022,LICJ,Palermo Falcone-Borsellino,Italy,61,62,123,,,
+2022,1,JAN,1/1/2022,LIMC,Milan - Malpensa,Italy,159,160,319,159,160,319
+2022,1,JAN,1/1/2022,LIME,Bergamo,Italy,102,102,204,102,102,204
+2022,1,JAN,1/1/2022,LIMF,Torino Caselle,Italy,43,45,88,44,46,90
+2022,1,JAN,1/1/2022,LIML,Milan - Linate,Italy,75,71,146,75,72,147
+2022,1,JAN,1/1/2022,LIPE,Bologna,Italy,62,62,124,,,
+2022,1,JAN,1/1/2022,LIPH,Treviso,Italy,16,13,29,,,
+2022,1,JAN,1/1/2022,LIPZ,Venice,Italy,70,73,143,70,73,143
+2022,1,JAN,1/1/2022,LIRA,Rome - Ciampino,Italy,28,30,58,,,
+2022,1,JAN,1/1/2022,LIRF,Rome - Fiumicino,Italy,203,194,397,202,194,396
+2022,1,JAN,1/1/2022,LIRN,Naples,Italy,72,73,145,72,73,145
+2022,1,JAN,1/1/2022,LIRP,Pisa San Giusto,Italy,29,29,58,,,
+2022,1,JAN,1/1/2022,EVRA,Riga,Latvia,64,64,128,64,63,127
+2022,1,JAN,1/1/2022,EYKA,Kaunas,Lithuania,14,13,27,,,
+2022,1,JAN,1/1/2022,EYPA,Palanga,Lithuania,4,5,9,,,
+2022,1,JAN,1/1/2022,EYSA,Siauliai,Lithuania,1,1,2,,,
+2022,1,JAN,1/1/2022,EYVI,Vilnius,Lithuania,41,37,78,,,
+2022,1,JAN,1/1/2022,ELLX,Luxembourg,Luxembourg,67,63,130,67,63,130
+2022,1,JAN,1/1/2022,LMML,Malta,Malta,46,45,91,46,45,91
+2022,1,JAN,1/1/2022,LUKK,ChiÈ™inÄƒu,Moldova,17,17,34,,,
+2022,1,JAN,1/1/2022,LYPG,Podgorica,Montenegro,8,8,16,,,
+2022,1,JAN,1/1/2022,GMAD,Al Massira,Morocco,3,3,6,,,
+2022,1,JAN,1/1/2022,GMFF,SaÃ¯ss,Morocco,1,1,2,,,
+2022,1,JAN,1/1/2022,GMME,Rabat-SalÃ©,Morocco,3,6,9,,,
+2022,1,JAN,1/1/2022,GMMN,Mohammed V International,Morocco,22,23,45,,,
+2022,1,JAN,1/1/2022,GMMX,Menara,Morocco,6,4,10,,,
+2022,1,JAN,1/1/2022,GMTT,Ibn Batouta,Morocco,1,1,2,,,
+2022,1,JAN,1/1/2022,EHAM,Amsterdam - Schiphol,Netherlands,433,402,835,432,402,834
+2022,1,JAN,1/1/2022,EHBK,Maastricht-Aachen,Netherlands,7,5,12,,,
+2022,1,JAN,1/1/2022,EHRD,Rotterdam,Netherlands,14,12,26,,,
+2022,1,JAN,1/1/2022,ENAL,Alesund,Norway,7,8,15,,,
+2022,1,JAN,1/1/2022,ENAN,Andenes,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENAT,Alta,Norway,1,2,3,,,
+2022,1,JAN,1/1/2022,ENBO,BodÃ¸,Norway,8,9,17,,,
+2022,1,JAN,1/1/2022,ENBR,Bergen,Norway,52,48,100,,,
+2022,1,JAN,1/1/2022,ENCN,Kristiansand Kjevik,Norway,9,12,21,,,
+2022,1,JAN,1/1/2022,ENDU,Bardufoss,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENEV,Harstad - Narvik Evenes,Norway,5,5,10,,,
+2022,1,JAN,1/1/2022,ENGM,Oslo - Gardermoen,Norway,120,115,235,120,115,235
+2022,1,JAN,1/1/2022,ENHD,Haugesund,Norway,2,4,6,,,
+2022,1,JAN,1/1/2022,ENHF,Hammerfest,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENKB,Kristiansund Kvernberget,Norway,5,6,11,,,
+2022,1,JAN,1/1/2022,ENKR,Kirkenes HÃ¸ybuktmoen,Norway,1,2,3,,,
+2022,1,JAN,1/1/2022,ENMH,Mehamn,Norway,0,0,0,,,
+2022,1,JAN,1/1/2022,ENML,Molde Ã…rÃ¸,Norway,3,3,6,,,
+2022,1,JAN,1/1/2022,ENNA,Lakselv Banak,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENRA,Mo i Rana RÃ¸ssvoll,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENSK,Stokmarknes Skagen,Norway,2,2,4,,,
+2022,1,JAN,1/1/2022,ENST,SandnessjÃ¸en Stokka,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENTC,TromsÃ¸,Norway,23,23,46,,,
+2022,1,JAN,1/1/2022,ENVA,Trondheim,Norway,23,22,45,,,
+2022,1,JAN,1/1/2022,ENVR,VÃ¦rÃ¸y,Norway,1,1,2,,,
+2022,1,JAN,1/1/2022,ENZV,Stavanger,Norway,32,35,67,,,
+2022,1,JAN,1/1/2022,EPBY,Bydgoszcz,Poland,1,1,2,,,
+2022,1,JAN,1/1/2022,EPGD,Gdansk,Poland,36,39,75,,,
+2022,1,JAN,1/1/2022,EPKK,Krakow - Balice,Poland,53,55,108,,,
+2022,1,JAN,1/1/2022,EPKT,Katowice - Pyrzowice,Poland,35,30,65,,,
+2022,1,JAN,1/1/2022,EPLB,Lublin,Poland,5,4,9,,,
+2022,1,JAN,1/1/2022,EPLL,Lodz - Lublinek,Poland,2,2,4,,,
+2022,1,JAN,1/1/2022,EPMO,Warszawa - Modlin,Poland,24,24,48,,,
+2022,1,JAN,1/1/2022,EPPO,Poznan - Lawica,Poland,19,18,37,,,
+2022,1,JAN,1/1/2022,EPRZ,Rzeszow - Jasionka,Poland,7,7,14,,,
+2022,1,JAN,1/1/2022,EPSC,Szczecin - GoleniÃ³w,Poland,4,4,8,,,
+2022,1,JAN,1/1/2022,EPSY,Olsztyn-Mazury,Poland,1,1,2,,,
+2022,1,JAN,1/1/2022,EPWA,Warszawa - Chopina,Poland,123,115,238,123,115,238
+2022,1,JAN,1/1/2022,EPWR,Wroclaw - Strachowice,Poland,21,21,42,,,
+2022,1,JAN,1/1/2022,LPAZ,Santa Maria,Portugal,2,1,3,,,
+2022,1,JAN,1/1/2022,LPCS,Cascais,Portugal,0,1,1,,,
+2022,1,JAN,1/1/2022,LPFL,Flores,Portugal,1,1,2,,,
+2022,1,JAN,1/1/2022,LPFR,Faro,Portugal,52,49,101,52,49,101
+2022,1,JAN,1/1/2022,LPHR,Horta,Portugal,3,3,6,,,
+2022,1,JAN,1/1/2022,LPMA,Madeira,Portugal,46,47,93,,,
+2022,1,JAN,1/1/2022,LPPD,Ponta Delgada,Portugal,22,21,43,,,
+2022,1,JAN,1/1/2022,LPPR,Porto,Portugal,104,100,204,104,100,204
+2022,1,JAN,1/1/2022,LPPS,Porto Santo,Portugal,2,2,4,,,
+2022,1,JAN,1/1/2022,LPPT,Lisbon,Portugal,231,220,451,230,220,450
+2022,1,JAN,1/1/2022,LWSK,Skopje,Republic of North Macedonia,14,15,29,,,
+2022,1,JAN,1/1/2022,LRBS,Bucharest - BÄƒneasa,Romania,0,1,1,,,
+2022,1,JAN,1/1/2022,LROP,Bucharest - Otopeni,Romania,66,59,125,66,59,125
+2022,1,JAN,1/1/2022,LYBE,Belgrade - Nikola Tesla,Serbia,36,39,75,,,
+2022,1,JAN,1/1/2022,LZIB,Bratislava,Slovakia,8,7,15,8,7,15
+2022,1,JAN,1/1/2022,LJLJ,Ljubljana,Slovenia,6,6,12,6,6,12
+2022,1,JAN,1/1/2022,GCFV,Fuerteventura,Spain,88,91,179,88,86,174
+2022,1,JAN,1/1/2022,GCGM,La Gomera,Spain,2,2,4,,,
+2022,1,JAN,1/1/2022,GCHI,Hierro,Spain,4,4,8,,,
+2022,1,JAN,1/1/2022,GCLA,La Palma,Spain,14,14,28,,,
+2022,1,JAN,1/1/2022,GCLP,Gran Canaria,Spain,199,195,394,198,195,393
+2022,1,JAN,1/1/2022,GCRR,Lanzarote,Spain,99,100,199,99,100,199
+2022,1,JAN,1/1/2022,GCTS,Tenerife Sur - Reina Sofia,Spain,126,124,250,124,120,244
+2022,1,JAN,1/1/2022,GCXO,Tenerife North,Spain,65,65,130,64,62,126
+2022,1,JAN,1/1/2022,GEML,Melilla,Spain,5,5,10,,,
+2022,1,JAN,1/1/2022,LEAL,Alicante,Spain,91,95,186,91,95,186
+2022,1,JAN,1/1/2022,LEAM,Almeria,Spain,3,3,6,,,
+2022,1,JAN,1/1/2022,LEAS,Asturias,Spain,9,9,18,,,
+2022,1,JAN,1/1/2022,LEBB,Bilbao,Spain,30,31,61,30,31,61
+2022,1,JAN,1/1/2022,LEBL,Barcelona,Spain,252,250,502,251,250,501
+2022,1,JAN,1/1/2022,LECO,La Coruna,Spain,8,9,17,,,
+2022,1,JAN,1/1/2022,LEGE,Gerona,Spain,2,2,4,,,
+2022,1,JAN,1/1/2022,LEGR,Granada,Spain,8,8,16,,,
+2022,1,JAN,1/1/2022,LEIB,Ibiza,Spain,41,33,74,41,32,73
+2022,1,JAN,1/1/2022,LEIZ,Abad,Spain,1,1,2,,,
+2022,1,JAN,1/1/2022,LEJR,Jerez De La Frontera,Spain,4,5,9,,,
+2022,1,JAN,1/1/2022,LELL,Sabadell,Spain,1,0,1,,,
+2022,1,JAN,1/1/2022,LEMD,Madrid - Barajas,Spain,340,323,663,322,317,639
+2022,1,JAN,1/1/2022,LEMG,MÃ¡laga,Spain,139,137,276,138,135,273
+2022,1,JAN,1/1/2022,LEMH,Mahon,Spain,15,16,31,,,
+2022,1,JAN,1/1/2022,LEMI,RegiÃ³n de Murcia International Airport,Spain,4,4,8,,,
+2022,1,JAN,1/1/2022,LEMO,Seville - Moron,Spain,2,1,3,,,
+2022,1,JAN,1/1/2022,LEPA,Palma de Mallorca,Spain,117,123,240,117,123,240
+2022,1,JAN,1/1/2022,LEPP,Noain Pamplona,Spain,2,2,4,,,
+2022,1,JAN,1/1/2022,LERT,Rota,Spain,5,3,8,,,
+2022,1,JAN,1/1/2022,LESO,San Sebastian,Spain,4,4,8,,,
+2022,1,JAN,1/1/2022,LEST,Santiago,Spain,27,27,54,,,
+2022,1,JAN,1/1/2022,LETO,Madrid - Torrejon,Spain,0,1,1,,,
+2022,1,JAN,1/1/2022,LEVC,Valencia,Spain,71,76,147,70,72,142
+2022,1,JAN,1/1/2022,LEVD,Valladolid,Spain,2,2,4,,,
+2022,1,JAN,1/1/2022,LEVT,Vitoria,Spain,3,3,6,,,
+2022,1,JAN,1/1/2022,LEVX,Vigo,Spain,0,0,0,,,
+2022,1,JAN,1/1/2022,LEXJ,Santander,Spain,4,4,8,,,
+2022,1,JAN,1/1/2022,LEZG,Zaragoza,Spain,18,16,34,,,
+2022,1,JAN,1/1/2022,LEZL,Sevilla,Spain,62,61,123,61,61,122
+2022,1,JAN,1/1/2022,ESGG,GÃ¶teborg,Sweden,34,37,71,34,37,71
+2022,1,JAN,1/1/2022,ESSA,Stockholm - Arlanda,Sweden,104,107,211,104,107,211
+2022,1,JAN,1/1/2022,LSGG,Geneva,Switzerland,206,208,414,206,207,413
+2022,1,JAN,1/1/2022,LSGS,Sion,Switzerland,9,11,20,,,
+2022,1,JAN,1/1/2022,LSZH,ZÃ¼rich,Switzerland,201,184,385,201,184,385
+2022,1,JAN,1/1/2022,LTAC,Ankara - EsenboÄŸa,Turkey,66,66,132,,,
+2022,1,JAN,1/1/2022,LTAI,Antalya,Turkey,90,95,185,,,
+2022,1,JAN,1/1/2022,LTBA,Istanbul AtatÃ¼rk,Turkey,34,30,64,,,
+2022,1,JAN,1/1/2022,LTBJ,Izmir - Adnan Menderes,Turkey,61,65,126,,,
+2022,1,JAN,1/1/2022,LTFJ,Istanbul Sabiha GÃ¶kÃ§en,Turkey,237,218,455,,,
+2022,1,JAN,1/1/2022,LTFM,iGA Istanbul Airport,Turkey,418,412,830,419,414,833
+2022,1,JAN,1/1/2022,UKBB,Kiev - Boryspil,Ukraine,59,50,109,,,
+2022,1,JAN,1/1/2022,EGAA,Belfast - Aldergrove,United Kingdom,34,32,66,,,
+2022,1,JAN,1/1/2022,EGAC,Belfast - City Airport,United Kingdom,12,13,25,,,
+2022,1,JAN,1/1/2022,EGBB,Birmingham,United Kingdom,47,52,99,47,52,99
+2022,1,JAN,1/1/2022,EGCC,Manchester,United Kingdom,132,129,261,,,
+2022,1,JAN,1/1/2022,EGGD,Bristol,United Kingdom,44,41,85,44,41,85
+2022,1,JAN,1/1/2022,EGGW,London - Luton,United Kingdom,110,105,215,110,103,213
+2022,1,JAN,1/1/2022,EGHI,Southampton,United Kingdom,5,7,12,,,
+2022,1,JAN,1/1/2022,EGKB,Biggin Hill,United Kingdom,16,15,31,,,
+2022,1,JAN,1/1/2022,EGKK,London - Gatwick,United Kingdom,173,172,345,173,172,345
+2022,1,JAN,1/1/2022,EGLC,London - City,United Kingdom,7,6,13,7,6,13
+2022,1,JAN,1/1/2022,EGLF,Farnborough,United Kingdom,16,18,34,,,
+2022,1,JAN,1/1/2022,EGLL,London - Heathrow,United Kingdom,372,366,738,371,365,736
+2022,1,JAN,1/1/2022,EGNT,Newcastle,United Kingdom,9,12,21,9,12,21
+2022,1,JAN,1/1/2022,EGNX,East Midlands,United Kingdom,13,15,28,,,
+2022,1,JAN,1/1/2022,EGPD,Aberdeen,United Kingdom,9,9,18,9,9,18
+2022,1,JAN,1/1/2022,EGPF,Glasgow,United Kingdom,29,30,59,33,34,67
+2022,1,JAN,1/1/2022,EGPH,Edinburgh,United Kingdom,56,55,111,56,55,111
+2022,1,JAN,1/1/2022,EGSS,London - Stansted,United Kingdom,160,165,325,160,165,325
+2022,1,JAN,2/1/2022,LATI,Tirana,Albania,47,52,99,,,
+2022,1,JAN,2/1/2022,UDYZ,Yerevan,Armenia,30,31,61,,,
+2022,1,JAN,2/1/2022,LOWG,Graz,Austria,11,10,21,,,
+2022,1,JAN,2/1/2022,LOWI,Innsbruck,Austria,63,66,129,,,
+2022,1,JAN,2/1/2022,LOWK,Klagenfurt,Austria,3,3,6,,,
+2022,1,JAN,2/1/2022,LOWL,Linz,Austria,6,5,11,,,
+2022,1,JAN,2/1/2022,LOWS,Salzburg,Austria,60,56,116,,,
+2022,1,JAN,2/1/2022,LOWW,Vienna,Austria,275,260,535,274,259,533
+2022,1,JAN,2/1/2022,EBAW,Antwerp,Belgium,13,12,25,,,
+2022,1,JAN,2/1/2022,EBBR,Brussels,Belgium,213,202,415,213,202,415
+2022,1,JAN,2/1/2022,EBCI,Charleroi,Belgium,78,79,157,78,79,157
+2022,1,JAN,2/1/2022,EBLG,LiÃ¨ge,Belgium,34,26,60,,,
+2022,1,JAN,2/1/2022,EBOS,Ostend-Bruges,Belgium,7,9,16,,,
+2022,1,JAN,2/1/2022,LQSA,Sarajevo,Bosnia and Herzegovina,3,0,3,,,
+2022,1,JAN,2/1/2022,LBSF,Sofia,Bulgaria,89,96,185,89,96,185
+2022,1,JAN,2/1/2022,LDZA,Zagreb,Croatia,51,48,99,50,47,97
+2022,1,JAN,2/1/2022,LCLK,Larnaca,Cyprus,59,60,119,,,
+2022,1,JAN,2/1/2022,LCPH,Paphos,Cyprus,28,27,55,,,
+2022,1,JAN,2/1/2022,LKKV,Karlovy Vary,Czech Republic,2,3,5,,,
+2022,1,JAN,2/1/2022,LKMT,Ostrava,Czech Republic,4,4,8,,,
+2022,1,JAN,2/1/2022,LKPR,Prague,Czech Republic,153,153,306,150,150,300
+2022,1,JAN,2/1/2022,LKTB,Brno-TuÅ™any,Czech Republic,4,6,10,,,
+2022,1,JAN,2/1/2022,EKCH,Copenhagen - Kastrup,Denmark,259,240,499,259,241,500
+2022,1,JAN,2/1/2022,EETN,Tallinn,Estonia,42,41,83,41,41,82
+2022,1,JAN,2/1/2022,EFHK,Helsinki - Vantaa,Finland,179,176,355,179,176,355
+2022,1,JAN,2/1/2022,LFBD,Bordeaux-MÃ©rignac,France,63,63,126,,,
+2022,1,JAN,2/1/2022,LFBH,La Rochelle-Ile de RÃ©,France,1,1,2,,,
+2022,1,JAN,2/1/2022,LFBI,Poitiers-Biard,France,1,1,2,,,
+2022,1,JAN,2/1/2022,LFBL,Limoges-Bellegarde,France,6,7,13,,,
+2022,1,JAN,2/1/2022,LFBO,Toulouse-Blagnac,France,93,90,183,91,88,179
+2022,1,JAN,2/1/2022,LFBP,Pau-PyrÃ©nÃ©es,France,10,9,19,,,
+2022,1,JAN,2/1/2022,LFBT,Tarbes-Lourdes PyrÃ©nÃ©es,France,6,4,10,,,
+2022,1,JAN,2/1/2022,LFBZ,Biarritz-Bayonne-Anglet,France,20,18,38,,,
+2022,1,JAN,2/1/2022,LFCR,Rodez-Marcillac,France,4,2,6,,,
+2022,1,JAN,2/1/2022,LFGJ,DÃ´le-Tavaux,France,2,3,5,,,
+2022,1,JAN,2/1/2022,LFJL,Metz-Nancy-Lorraine,France,1,0,1,,,
+2022,1,JAN,2/1/2022,LFJR,Angers-MarcÃ©,France,2,2,4,,,
+2022,1,JAN,2/1/2022,LFKB,Bastia-Poretta,France,22,22,44,,,
+2022,1,JAN,2/1/2022,LFKC,Calvi-Sainte-Catherine,France,6,5,11,,,
+2022,1,JAN,2/1/2022,LFKF,Figari-Sud Corse,France,9,8,17,,,
+2022,1,JAN,2/1/2022,LFKJ,Ajaccio-NapolÃ©on-Bonaparte,France,25,27,52,,,
+2022,1,JAN,2/1/2022,LFLB,ChambÃ©ry-Aix-les-Bains,France,36,35,71,,,
+2022,1,JAN,2/1/2022,LFLC,Clermont-Ferrand-Auvergne,France,5,5,10,,,
+2022,1,JAN,2/1/2022,LFLI,Annemasse,France,7,3,10,,,
+2022,1,JAN,2/1/2022,LFLL,Lyon-Saint-ExupÃ©ry,France,132,138,270,132,142,274
+2022,1,JAN,2/1/2022,LFLP,Annecy-Meythet,France,14,12,26,,,
+2022,1,JAN,2/1/2022,LFLS,Grenoble-IsÃ¨re,France,29,32,61,,,
+2022,1,JAN,2/1/2022,LFLX,ChÃ¢teauroux-DÃ©ols,France,3,2,5,,,
+2022,1,JAN,2/1/2022,LFLY,Lyon-Bron,France,27,26,53,,,
+2022,1,JAN,2/1/2022,LFMD,Cannes-Mandelieu,France,9,10,19,,,
+2022,1,JAN,2/1/2022,LFMK,Carcassonne-Salvaza,France,4,4,8,,,
+2022,1,JAN,2/1/2022,LFML,Marseille-Provence,France,95,91,186,95,91,186
+2022,1,JAN,2/1/2022,LFMN,Nice-CÃ´te dâ€™Azur,France,183,179,362,183,176,359
+2022,1,JAN,2/1/2022,LFMP,Perpignan-Rivesaltes,France,7,6,13,,,
+2022,1,JAN,2/1/2022,LFMT,Montpellier-MÃ©diterranÃ©e,France,32,34,66,,,
+2022,1,JAN,2/1/2022,LFMV,Avignon-Caumont,France,2,1,3,,,
+2022,1,JAN,2/1/2022,LFOB,Beauvais-TillÃ©,France,41,41,82,,,
+2022,1,JAN,2/1/2022,LFOK,ChÃ¢lons-Vatry,France,1,3,4,,,
+2022,1,JAN,2/1/2022,LFOP,Rouen,France,6,5,11,,,
+2022,1,JAN,2/1/2022,LFPB,Paris-Le Bourget,France,75,97,172,,,
+2022,1,JAN,2/1/2022,LFPG,Paris-Charles-de-Gaulle,France,525,503,1028,524,500,1024
+2022,1,JAN,2/1/2022,LFPN,Toussus-le-Noble,France,9,19,28,,,
+2022,1,JAN,2/1/2022,LFPO,Paris-Orly,France,277,282,559,277,282,559
+2022,1,JAN,2/1/2022,LFQQ,Lille-Lesquin,France,32,31,63,,,
+2022,1,JAN,2/1/2022,LFRB,Brest-Bretagne,France,20,19,39,,,
+2022,1,JAN,2/1/2022,LFRD,Dinard-Pleurtuit-Saint-Malo,France,0,2,2,,,
+2022,1,JAN,2/1/2022,LFRG,Deauville-Normandie,France,2,2,4,,,
+2022,1,JAN,2/1/2022,LFRH,Lorient-Lann BihouÃ©,France,0,0,0,,,
+2022,1,JAN,2/1/2022,LFRK,Caen-Carpiquet,France,7,8,15,,,
+2022,1,JAN,2/1/2022,LFRN,Rennes-Saint-Jacques,France,14,15,29,,,
+2022,1,JAN,2/1/2022,LFRO,Lannion,France,1,1,2,,,
+2022,1,JAN,2/1/2022,LFRQ,Quimper-Pluguffan,France,1,1,2,,,
+2022,1,JAN,2/1/2022,LFRS,Nantes-Atlantique,France,71,67,138,,,
+2022,1,JAN,2/1/2022,LFRZ,Saint-Nazaire-Montoir,France,1,0,1,,,
+2022,1,JAN,2/1/2022,LFSB,BÃ¢le-Mulhouse,France,87,94,181,87,94,181
+2022,1,JAN,2/1/2022,LFSL,Brive-Souillac,France,2,2,4,,,
+2022,1,JAN,2/1/2022,LFST,Strasbourg-Entzheim,France,17,16,33,,,
+2022,1,JAN,2/1/2022,LFTH,HyÃ¨res-Le Palyvestre,France,14,13,27,,,
+2022,1,JAN,2/1/2022,LFTW,NÃ®mes-Garons,France,1,1,2,,,
+2022,1,JAN,2/1/2022,UGTB,Tbilisi,Georgia,40,39,79,,,
+2022,1,JAN,2/1/2022,EDDB,Berlin - Brandenburg,Germany,220,226,446,220,224,444
+2022,1,JAN,2/1/2022,EDDC,Dresden,Germany,11,13,24,11,13,24
+2022,1,JAN,2/1/2022,EDDE,Erfurt,Germany,2,1,3,2,2,4
+2022,1,JAN,2/1/2022,EDDF,Frankfurt,Germany,495,485,980,495,485,980
+2022,1,JAN,2/1/2022,EDDG,Muenster-Osnabrueck,Germany,10,9,19,12,9,21
+2022,1,JAN,2/1/2022,EDDH,Hamburg,Germany,133,139,272,131,137,268
+2022,1,JAN,2/1/2022,EDDK,Cologne-Bonn,Germany,95,114,209,92,114,206
+2022,1,JAN,2/1/2022,EDDL,Dusseldorf,Germany,158,165,323,158,164,322
+2022,1,JAN,2/1/2022,EDDM,Munich,Germany,339,333,672,339,333,672
+2022,1,JAN,2/1/2022,EDDN,Nuremberg,Germany,28,31,59,29,30,59
+2022,1,JAN,2/1/2022,EDDP,Leipzig-Halle,Germany,77,50,127,73,49,122
+2022,1,JAN,2/1/2022,EDDR,Saarbruecken,Germany,4,5,9,3,4,7
+2022,1,JAN,2/1/2022,EDDS,Stuttgart,Germany,80,82,162,81,79,160
+2022,1,JAN,2/1/2022,EDDV,Hanover,Germany,39,41,80,38,39,77
+2022,1,JAN,2/1/2022,EDDW,Bremen,Germany,20,18,38,20,18,38
+2022,1,JAN,2/1/2022,LGAV,Athens,Greece,237,236,473,236,236,472
+2022,1,JAN,2/1/2022,LGIR,Heraklion,Greece,16,17,33,,,
+2022,1,JAN,2/1/2022,LGKF,Kefallinia,Greece,2,2,4,,,
+2022,1,JAN,2/1/2022,LGKO,Kos,Greece,8,7,15,,,
+2022,1,JAN,2/1/2022,LGKR,Corfu,Greece,5,5,10,,,
+2022,1,JAN,2/1/2022,LGMK,Mikonos,Greece,3,3,6,,,
+2022,1,JAN,2/1/2022,LGRP,Rodos,Greece,12,10,22,,,
+2022,1,JAN,2/1/2022,LGSA,Khania - Souda,Greece,16,13,29,,,
+2022,1,JAN,2/1/2022,LGSK,Skiathos,Greece,2,2,4,,,
+2022,1,JAN,2/1/2022,LGSR,Santorini,Greece,8,8,16,,,
+2022,1,JAN,2/1/2022,LGTS,Thessaloniki,Greece,62,62,124,,,
+2022,1,JAN,2/1/2022,LGZA,Zakinthos,Greece,2,2,4,,,
+2022,1,JAN,2/1/2022,LHBP,Budapest - Ferihegy,Hungary,133,137,270,133,136,269
+2022,1,JAN,2/1/2022,EICK,Cork,Ireland,22,21,43,23,22,45
+2022,1,JAN,2/1/2022,EIDL,Donegal,Ireland,3,3,6,,,
+2022,1,JAN,2/1/2022,EIDW,Dublin,Ireland,250,247,497,250,247,497
+2022,1,JAN,2/1/2022,EIKN,Connaught,Ireland,8,8,16,,,
+2022,1,JAN,2/1/2022,EIKY,Kerry - Farranfore,Ireland,8,8,16,,,
+2022,1,JAN,2/1/2022,EINN,Shannon,Ireland,16,17,33,,,
+2022,1,JAN,2/1/2022,LLBG,Tel Aviv - Ben Gurion International,Israel,125,125,250,,,
+2022,1,JAN,2/1/2022,LIBR,Brindisi,Italy,26,26,52,,,
+2022,1,JAN,2/1/2022,LICC,Catania,Italy,94,95,189,94,95,189
+2022,1,JAN,2/1/2022,LICJ,Palermo Falcone-Borsellino,Italy,78,77,155,,,
+2022,1,JAN,2/1/2022,LIMC,Milan - Malpensa,Italy,231,227,458,230,227,457
+2022,1,JAN,2/1/2022,LIME,Bergamo,Italy,124,118,242,124,118,242
+2022,1,JAN,2/1/2022,LIMF,Torino Caselle,Italy,72,76,148,74,75,149
+2022,1,JAN,2/1/2022,LIML,Milan - Linate,Italy,103,99,202,104,99,203
+2022,1,JAN,2/1/2022,LIPE,Bologna,Italy,77,75,152,,,
+2022,1,JAN,2/1/2022,LIPH,Treviso,Italy,18,19,37,,,
+2022,1,JAN,2/1/2022,LIPZ,Venice,Italy,90,88,178,90,88,178
+2022,1,JAN,2/1/2022,LIRA,Rome - Ciampino,Italy,40,41,81,,,
+2022,1,JAN,2/1/2022,LIRF,Rome - Fiumicino,Italy,251,248,499,251,247,498
+2022,1,JAN,2/1/2022,LIRN,Naples,Italy,105,105,210,105,105,210
+2022,1,JAN,2/1/2022,LIRP,Pisa San Giusto,Italy,39,37,76,,,
+2022,1,JAN,2/1/2022,EVRA,Riga,Latvia,89,86,175,89,79,168
+2022,1,JAN,2/1/2022,EYKA,Kaunas,Lithuania,13,13,26,,,
+2022,1,JAN,2/1/2022,EYPA,Palanga,Lithuania,5,5,10,,,
+2022,1,JAN,2/1/2022,EYSA,Siauliai,Lithuania,0,0,0,,,
+2022,1,JAN,2/1/2022,EYVI,Vilnius,Lithuania,47,53,100,,,
+2022,1,JAN,2/1/2022,ELLX,Luxembourg,Luxembourg,99,111,210,97,110,207
+2022,1,JAN,2/1/2022,LMML,Malta,Malta,61,61,122,61,61,122
+2022,1,JAN,2/1/2022,LUKK,ChiÈ™inÄƒu,Moldova,36,31,67,,,
+2022,1,JAN,2/1/2022,LYPG,Podgorica,Montenegro,13,12,25,,,
+2022,1,JAN,2/1/2022,GMAD,Al Massira,Morocco,8,7,15,,,
+2022,1,JAN,2/1/2022,GMFF,SaÃ¯ss,Morocco,1,1,2,,,
+2022,1,JAN,2/1/2022,GMME,Rabat-SalÃ©,Morocco,3,4,7,,,
+2022,1,JAN,2/1/2022,GMMN,Mohammed V International,Morocco,35,32,67,,,
+2022,1,JAN,2/1/2022,GMMX,Menara,Morocco,10,8,18,,,
+2022,1,JAN,2/1/2022,GMTT,Ibn Batouta,Morocco,4,2,6,,,
+2022,1,JAN,2/1/2022,EHAM,Amsterdam - Schiphol,Netherlands,551,560,1111,549,560,1109
+2022,1,JAN,2/1/2022,EHBK,Maastricht-Aachen,Netherlands,7,10,17,,,
+2022,1,JAN,2/1/2022,EHGG,Groningen,Netherlands,2,3,5,,,
+2022,1,JAN,2/1/2022,EHLE,Lelystad,Netherlands,2,1,3,,,
+2022,1,JAN,2/1/2022,EHRD,Rotterdam,Netherlands,19,20,39,,,
+2022,1,JAN,2/1/2022,ENAL,Alesund,Norway,18,20,38,,,
+2022,1,JAN,2/1/2022,ENAN,Andenes,Norway,2,3,5,,,
+2022,1,JAN,2/1/2022,ENAT,Alta,Norway,10,12,22,,,
+2022,1,JAN,2/1/2022,ENBL,Forde Bringeland,Norway,1,1,2,,,
+2022,1,JAN,2/1/2022,ENBN,Bronnoysund Bronnoy,Norway,3,4,7,,,
+2022,1,JAN,2/1/2022,ENBO,BodÃ¸,Norway,39,39,78,,,
+2022,1,JAN,2/1/2022,ENBR,Bergen,Norway,109,112,221,,,
+2022,1,JAN,2/1/2022,ENBS,Batsfjord,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENBV,BerlevÃ¥g,Norway,1,1,2,,,
+2022,1,JAN,2/1/2022,ENCN,Kristiansand Kjevik,Norway,14,13,27,,,
+2022,1,JAN,2/1/2022,ENDU,Bardufoss,Norway,3,4,7,,,
+2022,1,JAN,2/1/2022,ENEV,Harstad - Narvik Evenes,Norway,12,14,26,,,
+2022,1,JAN,2/1/2022,ENFL,FlorÃ¸,Norway,4,5,9,,,
+2022,1,JAN,2/1/2022,ENGM,Oslo - Gardermoen,Norway,280,265,545,281,266,547
+2022,1,JAN,2/1/2022,ENHD,Haugesund,Norway,10,10,20,,,
+2022,1,JAN,2/1/2022,ENHF,Hammerfest,Norway,9,9,18,,,
+2022,1,JAN,2/1/2022,ENHV,HonningsvÃ¥g Valan,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENKB,Kristiansund Kvernberget,Norway,4,3,7,,,
+2022,1,JAN,2/1/2022,ENKR,Kirkenes HÃ¸ybuktmoen,Norway,7,8,15,,,
+2022,1,JAN,2/1/2022,ENLK,Leknes,Norway,4,4,8,,,
+2022,1,JAN,2/1/2022,ENMH,Mehamn,Norway,3,3,6,,,
+2022,1,JAN,2/1/2022,ENML,Molde Ã…rÃ¸,Norway,7,7,14,,,
+2022,1,JAN,2/1/2022,ENMS,MosjÃ¸en KjÃ¦rstad,Norway,8,8,16,,,
+2022,1,JAN,2/1/2022,ENNA,Lakselv Banak,Norway,1,2,3,,,
+2022,1,JAN,2/1/2022,ENNM,Namsos HÃ¸knesÃ¸ra,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENOV,OrstaÂ¿Volda Hovden,Norway,3,5,8,,,
+2022,1,JAN,2/1/2022,ENRA,Mo i Rana RÃ¸ssvoll,Norway,5,6,11,,,
+2022,1,JAN,2/1/2022,ENRM,Rorvik Ryum,Norway,3,3,6,,,
+2022,1,JAN,2/1/2022,ENRO,Roros,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENRS,Rost,Norway,1,1,2,,,
+2022,1,JAN,2/1/2022,ENSB,Svalbard Longyear,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENSD,Sandane  Anda,Norway,1,1,2,,,
+2022,1,JAN,2/1/2022,ENSG,Sogndal HaukÃ¥sen,Norway,3,3,6,,,
+2022,1,JAN,2/1/2022,ENSH,SvolvÃ¦r Helle,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENSK,Stokmarknes Skagen,Norway,5,5,10,,,
+2022,1,JAN,2/1/2022,ENSR,Sorkjosen,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENSS,VardÃ¸ Svartnes,Norway,2,2,4,,,
+2022,1,JAN,2/1/2022,ENST,SandnessjÃ¸en Stokka,Norway,0,0,0,,,
+2022,1,JAN,2/1/2022,ENTC,TromsÃ¸,Norway,53,52,105,,,
+2022,1,JAN,2/1/2022,ENVA,Trondheim,Norway,68,74,142,,,
+2022,1,JAN,2/1/2022,ENVD,VadsÃ¸,Norway,3,4,7,,,
+2022,1,JAN,2/1/2022,ENVR,VÃ¦rÃ¸y,Norway,1,1,2,,,
+2022,1,JAN,2/1/2022,ENZV,Stavanger,Norway,63,62,125,,,
+2022,1,JAN,2/1/2022,EPBY,Bydgoszcz,Poland,5,6,11,,,
+2022,1,JAN,2/1/2022,EPGD,Gdansk,Poland,50,54,104,,,
+2022,1,JAN,2/1/2022,EPKK,Krakow - Balice,Poland,83,84,167,,,
+2022,1,JAN,2/1/2022,EPKT,Katowice - Pyrzowice,Poland,39,40,79,,,
+2022,1,JAN,2/1/2022,EPLB,Lublin,Poland,2,3,5,,,
+2022,1,JAN,2/1/2022,EPLL,Lodz - Lublinek,Poland,2,3,5,,,
+2022,1,JAN,2/1/2022,EPMO,Warszawa - Modlin,Poland,35,35,70,,,
+2022,1,JAN,2/1/2022,EPPO,Poznan - Lawica,Poland,22,24,46,,,
+2022,1,JAN,2/1/2022,EPRZ,Rzeszow - Jasionka,Poland,9,10,19,,,
+2022,1,JAN,2/1/2022,EPSC,Szczecin - GoleniÃ³w,Poland,6,7,13,,,
+2022,1,JAN,2/1/2022,EPSY,Olsztyn-Mazury,Poland,2,2,4,,,
+2022,1,JAN,2/1/2022,EPWA,Warszawa - Chopina,Poland,183,163,346,183,163,346
+2022,1,JAN,2/1/2022,EPWR,Wroclaw - Strachowice,Poland,32,29,61,,,
+2022,1,JAN,2/1/2022,EPZG,Zielona Gora - Babimost,Poland,0,1,1,,,
+2022,1,JAN,2/1/2022,LPAZ,Santa Maria,Portugal,5,5,10,,,
+2022,1,JAN,2/1/2022,LPCS,Cascais,Portugal,8,6,14,,,
+2022,1,JAN,2/1/2022,LPFL,Flores,Portugal,1,1,2,,,
+2022,1,JAN,2/1/2022,LPFR,Faro,Portugal,49,47,96,49,47,96
+2022,1,JAN,2/1/2022,LPHR,Horta,Portugal,8,8,16,,,
+2022,1,JAN,2/1/2022,LPMA,Madeira,Portugal,52,47,99,,,
+2022,1,JAN,2/1/2022,LPPD,Ponta Delgada,Portugal,30,30,60,,,
+2022,1,JAN,2/1/2022,LPPR,Porto,Portugal,122,125,247,123,126,249
+2022,1,JAN,2/1/2022,LPPS,Porto Santo,Portugal,4,4,8,,,
+2022,1,JAN,2/1/2022,LPPT,Lisbon,Portugal,260,255,515,256,255,511
+2022,1,JAN,2/1/2022,LWSK,Skopje,Republic of North Macedonia,23,21,44,,,
+2022,1,JAN,2/1/2022,LRBS,Bucharest - BÄƒneasa,Romania,2,1,3,,,
+2022,1,JAN,2/1/2022,LROP,Bucharest - Otopeni,Romania,129,132,261,127,132,259
+2022,1,JAN,2/1/2022,LYBE,Belgrade - Nikola Tesla,Serbia,100,89,189,,,
+2022,1,JAN,2/1/2022,LZIB,Bratislava,Slovakia,18,18,36,18,18,36
+2022,1,JAN,2/1/2022,LJLJ,Ljubljana,Slovenia,17,20,37,20,22,42
+2022,1,JAN,2/1/2022,LJMB,Maribor,Slovenia,2,1,3,,,
+2022,1,JAN,2/1/2022,GCFV,Fuerteventura,Spain,85,85,170,85,83,168
+2022,1,JAN,2/1/2022,GCGM,La Gomera,Spain,3,3,6,,,
+2022,1,JAN,2/1/2022,GCHI,Hierro,Spain,7,7,14,,,
+2022,1,JAN,2/1/2022,GCLA,La Palma,Spain,22,23,45,,,
+2022,1,JAN,2/1/2022,GCLP,Gran Canaria,Spain,183,180,363,183,172,355
+2022,1,JAN,2/1/2022,GCRR,Lanzarote,Spain,93,93,186,93,93,186
+2022,1,JAN,2/1/2022,GCTS,Tenerife Sur - Reina Sofia,Spain,135,136,271,136,132,268
+2022,1,JAN,2/1/2022,GCXO,Tenerife North,Spain,87,86,173,87,83,170
+2022,1,JAN,2/1/2022,GEML,Melilla,Spain,13,12,25,,,
+2022,1,JAN,2/1/2022,LEAL,Alicante,Spain,104,100,204,103,100,203
+2022,1,JAN,2/1/2022,LEAM,Almeria,Spain,4,4,8,,,
+2022,1,JAN,2/1/2022,LEAS,Asturias,Spain,18,18,36,,,
+2022,1,JAN,2/1/2022,LEBB,Bilbao,Spain,56,58,114,56,58,114
+2022,1,JAN,2/1/2022,LEBL,Barcelona,Spain,393,395,788,390,388,778
+2022,1,JAN,2/1/2022,LEBZ,Badajoz,Spain,5,4,9,,,
+2022,1,JAN,2/1/2022,LECO,La Coruna,Spain,11,12,23,,,
+2022,1,JAN,2/1/2022,LECU,Madrid - Cuatro Viento,Spain,5,5,10,,,
+2022,1,JAN,2/1/2022,LEDA,Lleida - Alguaire,Spain,1,1,2,,,
+2022,1,JAN,2/1/2022,LEGE,Gerona,Spain,8,10,18,,,
+2022,1,JAN,2/1/2022,LEGR,Granada,Spain,16,16,32,,,
+2022,1,JAN,2/1/2022,LEIB,Ibiza,Spain,60,58,118,59,55,114
+2022,1,JAN,2/1/2022,LEJR,Jerez De La Frontera,Spain,6,7,13,,,
+2022,1,JAN,2/1/2022,LELL,Sabadell,Spain,0,1,1,,,
+2022,1,JAN,2/1/2022,LELN,Leon,Spain,2,2,4,,,
+2022,1,JAN,2/1/2022,LEMD,Madrid - Barajas,Spain,432,414,846,431,411,842
+2022,1,JAN,2/1/2022,LEMG,MÃ¡laga,Spain,186,171,357,184,170,354
+2022,1,JAN,2/1/2022,LEMH,Mahon,Spain,24,23,47,,,
+2022,1,JAN,2/1/2022,LEMI,RegiÃ³n de Murcia International Airport,Spain,2,1,3,,,
+2022,1,JAN,2/1/2022,LEMO,Seville - Moron,Spain,1,1,2,,,
+2022,1,JAN,2/1/2022,LEPA,Palma de Mallorca,Spain,191,192,383,187,188,375
+2022,1,JAN,2/1/2022,LEPP,Noain Pamplona,Spain,3,3,6,,,
+2022,1,JAN,2/1/2022,LERJ,Logrono,Spain,0,1,1,,,
+2022,1,JAN,2/1/2022,LERT,Rota,Spain,4,2,6,,,
+2022,1,JAN,2/1/2022,LESB,Son Bonet,Spain,1,0,1,,,
+2022,1,JAN,2/1/2022,LESO,San Sebastian,Spain,4,4,8,,,
+2022,1,JAN,2/1/2022,LEST,Santiago,Spain,37,37,74,,,
+2022,1,JAN,2/1/2022,LETO,Madrid - Torrejon,Spain,2,1,3,,,
+2022,1,JAN,2/1/2022,LEVC,Valencia,Spain,88,90,178,88,90,178
+2022,1,JAN,2/1/2022,LEVD,Valladolid,Spain,4,5,9,,,
+2022,1,JAN,2/1/2022,LEVT,Vitoria,Spain,3,3,6,,,
+2022,1,JAN,2/1/2022,LEVX,Vigo,Spain,2,4,6,,,
+2022,1,JAN,2/1/2022,LEXJ,Santander,Spain,12,12,24,,,
+2022,1,JAN,2/1/2022,LEZG,Zaragoza,Spain,12,11,23,,,
+2022,1,JAN,2/1/2022,LEZL,Sevilla,Spain,80,80,160,80,80,160
+2022,1,JAN,2/1/2022,ESGG,GÃ¶teborg,Sweden,59,61,120,58,61,119
+2022,1,JAN,2/1/2022,ESSA,Stockholm - Arlanda,Sweden,213,206,419,213,206,419
+2022,1,JAN,2/1/2022,ESSB,Stockholm - Bromma,Sweden,27,31,58,,,
+2022,1,JAN,2/1/2022,LSGG,Geneva,Switzerland,260,261,521,260,259,519
+2022,1,JAN,2/1/2022,LSGS,Sion,Switzerland,54,54,108,,,
+2022,1,JAN,2/1/2022,LSZH,ZÃ¼rich,Switzerland,274,288,562,274,286,560
+2022,1,JAN,2/1/2022,LTAC,Ankara - EsenboÄŸa,Turkey,78,84,162,,,
+2022,1,JAN,2/1/2022,LTAI,Antalya,Turkey,153,138,291,,,
+2022,1,JAN,2/1/2022,LTBA,Istanbul AtatÃ¼rk,Turkey,43,36,79,,,
+2022,1,JAN,2/1/2022,LTBJ,Izmir - Adnan Menderes,Turkey,80,76,156,,,
+2022,1,JAN,2/1/2022,LTFJ,Istanbul Sabiha GÃ¶kÃ§en,Turkey,274,268,542,,,
+2022,1,JAN,2/1/2022,LTFM,iGA Istanbul Airport,Turkey,522,516,1038,534,527,1061
+2022,1,JAN,2/1/2022,UKBB,Kiev - Boryspil,Ukraine,123,119,242,,,
+2022,1,JAN,2/1/2022,EGAA,Belfast - Aldergrove,United Kingdom,51,52,103,,,
+2022,1,JAN,2/1/2022,EGAC,Belfast - City Airport,United Kingdom,21,22,43,,,
+2022,1,JAN,2/1/2022,EGAE,Londonderry - Eglinton,United Kingdom,5,7,12,,,
+2022,1,JAN,2/1/2022,EGBB,Birmingham,United Kingdom,87,84,171,87,84,171
+2022,1,JAN,2/1/2022,EGCC,Manchester,United Kingdom,187,187,374,,,
+2022,1,JAN,2/1/2022,EGGD,Bristol,United Kingdom,71,70,141,71,70,141
+2022,1,JAN,2/1/2022,EGGW,London - Luton,United Kingdom,161,180,341,161,179,340
+2022,1,JAN,2/1/2022,EGHI,Southampton,United Kingdom,25,21,46,,,
+2022,1,JAN,2/1/2022,EGKB,Biggin Hill,United Kingdom,33,39,72,,,
+2022,1,JAN,2/1/2022,EGKK,London - Gatwick,United Kingdom,225,225,450,224,225,449
+2022,1,JAN,2/1/2022,EGLC,London - City,United Kingdom,29,30,59,29,30,59
+2022,1,JAN,2/1/2022,EGLF,Farnborough,United Kingdom,31,43,74,,,
+2022,1,JAN,2/1/2022,EGLL,London - Heathrow,United Kingdom,439,427,866,436,426,862
+2022,1,JAN,2/1/2022,EGNT,Newcastle,United Kingdom,32,32,64,32,32,64
+2022,1,JAN,2/1/2022,EGNX,East Midlands,United Kingdom,42,40,82,,,
+2022,1,JAN,2/1/2022,EGPD,Aberdeen,United Kingdom,22,20,42,22,20,42
+2022,1,JAN,2/1/2022,EGPF,Glasgow,United Kingdom,59,54,113,61,56,117
+2022,1,JAN,2/1/2022,EGPH,Edinburgh,United Kingdom,104,103,207,104,103,207
+2022,1,JAN,2/1/2022,EGSS,London - Stansted,United Kingdom,208,199,407,206,198,404
+2022,1,JAN,3/1/2022,LATI,Tirana,Albania,47,45,92,,,
+2022,1,JAN,3/1/2022,UDYZ,Yerevan,Armenia,29,32,61,,,
+2022,1,JAN,3/1/2022,LOWG,Graz,Austria,12,11,23,,,
+2022,1,JAN,3/1/2022,LOWI,Innsbruck,Austria,28,28,56,,,
+2022,1,JAN,3/1/2022,LOWK,Klagenfurt,Austria,4,3,7,,,
+2022,1,JAN,3/1/2022,LOWL,Linz,Austria,7,7,14,,,
+2022,1,JAN,3/1/2022,LOWS,Salzburg,Austria,35,37,72,,,
+2022,1,JAN,3/1/2022,LOWW,Vienna,Austria,223,241,464,223,241,464
+2022,1,JAN,3/1/2022,EBAW,Antwerp,Belgium,12,12,24,,,
+2022,1,JAN,3/1/2022,EBBR,Brussels,Belgium,197,210,407,198,211,409
+2022,1,JAN,3/1/2022,EBCI,Charleroi,Belgium,73,71,144,73,71,144
+2022,1,JAN,3/1/2022,EBLG,LiÃ¨ge,Belgium,56,60,116,,,
+2022,1,JAN,3/1/2022,EBOS,Ostend-Bruges,Belgium,9,8,17,,,
+2022,1,JAN,3/1/2022,LQSA,Sarajevo,Bosnia and Herzegovina,13,18,31,,,
+2022,1,JAN,3/1/2022,LBSF,Sofia,Bulgaria,82,88,170,81,86,167
+2022,1,JAN,3/1/2022,LDZA,Zagreb,Croatia,64,63,127,63,62,125
+2022,1,JAN,3/1/2022,LCLK,Larnaca,Cyprus,47,49,96,,,
+2022,1,JAN,3/1/2022,LCPH,Paphos,Cyprus,20,20,40,,,
+2022,1,JAN,3/1/2022,LKKV,Karlovy Vary,Czech Republic,1,1,2,,,
+2022,1,JAN,3/1/2022,LKMT,Ostrava,Czech Republic,4,6,10,,,
+2022,1,JAN,3/1/2022,LKPR,Prague,Czech Republic,119,120,239,119,120,239
+2022,1,JAN,3/1/2022,LKTB,Brno-TuÅ™any,Czech Republic,3,3,6,,,
+2022,1,JAN,3/1/2022,EKCH,Copenhagen - Kastrup,Denmark,259,258,517,259,256,515
+2022,1,JAN,3/1/2022,EETN,Tallinn,Estonia,37,41,78,37,41,78
+2022,1,JAN,3/1/2022,EETU,Tartu,Estonia,0,1,1,,,
+2022,1,JAN,3/1/2022,EFHK,Helsinki - Vantaa,Finland,171,167,338,171,166,337
+2022,1,JAN,3/1/2022,LFBA,Agen-La Garenne,France,1,1,2,,,
+2022,1,JAN,3/1/2022,LFBD,Bordeaux-MÃ©rignac,France,72,75,147,,,
+2022,1,JAN,3/1/2022,LFBE,Bergerac-RoumaniÃ¨re,France,0,2,2,,,
+2022,1,JAN,3/1/2022,LFBH,La Rochelle-Ile de RÃ©,France,3,2,5,,,
+2022,1,JAN,3/1/2022,LFBI,Poitiers-Biard,France,4,4,8,,,
+2022,1,JAN,3/1/2022,LFBL,Limoges-Bellegarde,France,7,7,14,,,
+2022,1,JAN,3/1/2022,LFBO,Toulouse-Blagnac,France,101,103,204,95,97,192
+2022,1,JAN,3/1/2022,LFBP,Pau-PyrÃ©nÃ©es,France,8,8,16,,,
+2022,1,JAN,3/1/2022,LFBT,Tarbes-Lourdes PyrÃ©nÃ©es,France,7,8,15,,,
+2022,1,JAN,3/1/2022,LFBZ,Biarritz-Bayonne-Anglet,France,13,15,28,,,
+2022,1,JAN,3/1/2022,LFCR,Rodez-Marcillac,France,6,6,12,,,
+2022,1,JAN,3/1/2022,LFGJ,DÃ´le-Tavaux,France,4,4,8,,,
+2022,1,JAN,3/1/2022,LFJL,Metz-Nancy-Lorraine,France,2,1,3,,,
+2022,1,JAN,3/1/2022,LFJR,Angers-MarcÃ©,France,2,2,4,,,
+2022,1,JAN,3/1/2022,LFKB,Bastia-Poretta,France,17,16,33,,,
+2022,1,JAN,3/1/2022,LFKC,Calvi-Sainte-Catherine,France,5,6,11,,,
+2022,1,JAN,3/1/2022,LFKF,Figari-Sud Corse,France,7,7,14,,,
+2022,1,JAN,3/1/2022,LFKJ,Ajaccio-NapolÃ©on-Bonaparte,France,16,15,31,,,
+2022,1,JAN,3/1/2022,LFLB,ChambÃ©ry-Aix-les-Bains,France,27,31,58,,,
+2022,1,JAN,3/1/2022,LFLC,Clermont-Ferrand-Auvergne,France,12,11,23,,,
+2022,1,JAN,3/1/2022,LFLI,Annemasse,France,3,1,4,,,
+2022,1,JAN,3/1/2022,LFLL,Lyon-Saint-ExupÃ©ry,France,120,114,234,120,114,234
+2022,1,JAN,3/1/2022,LFLP,Annecy-Meythet,France,4,4,8,,,
+2022,1,JAN,3/1/2022,LFLS,Grenoble-IsÃ¨re,France,22,22,44,,,
+2022,1,JAN,3/1/2022,LFLX,ChÃ¢teauroux-DÃ©ols,France,4,3,7,,,
+2022,1,JAN,3/1/2022,LFLY,Lyon-Bron,France,17,16,33,,,
+2022,1,JAN,3/1/2022,LFMD,Cannes-Mandelieu,France,20,18,38,,,
+2022,1,JAN,3/1/2022,LFMH,Saint-Etienne-BouthÃ©on,France,3,4,7,,,
+2022,1,JAN,3/1/2022,LFMI,Istres-Le TubÃ©,France,4,5,9,,,
+2022,1,JAN,3/1/2022,LFMK,Carcassonne-Salvaza,France,5,5,10,,,
+2022,1,JAN,3/1/2022,LFML,Marseille-Provence,France,107,105,212,106,104,210
+2022,1,JAN,3/1/2022,LFMN,Nice-CÃ´te dâ€™Azur,France,141,142,283,141,140,281
+2022,1,JAN,3/1/2022,LFMP,Perpignan-Rivesaltes,France,12,10,22,,,
+2022,1,JAN,3/1/2022,LFMT,Montpellier-MÃ©diterranÃ©e,France,25,25,50,,,
+2022,1,JAN,3/1/2022,LFMU,BÃ©ziers-Vias,France,4,4,8,,,
+2022,1,JAN,3/1/2022,LFMV,Avignon-Caumont,France,4,5,9,,,
+2022,1,JAN,3/1/2022,LFOB,Beauvais-TillÃ©,France,41,41,82,,,
+2022,1,JAN,3/1/2022,LFOH,Le Havre-Octeville,France,1,1,2,,,
+2022,1,JAN,3/1/2022,LFOK,ChÃ¢lons-Vatry,France,3,2,5,,,
+2022,1,JAN,3/1/2022,LFOP,Rouen,France,1,1,2,,,
+2022,1,JAN,3/1/2022,LFOT,Tours-Val de Loire,France,6,6,12,,,
+2022,1,JAN,3/1/2022,LFPB,Paris-Le Bourget,France,62,63,125,,,
+2022,1,JAN,3/1/2022,LFPG,Paris-Charles-de-Gaulle,France,480,514,994,479,513,992
+2022,1,JAN,3/1/2022,LFPN,Toussus-le-Noble,France,10,9,19,,,
+2022,1,JAN,3/1/2022,LFPO,Paris-Orly,France,256,251,507,255,250,505
+2022,1,JAN,3/1/2022,LFQQ,Lille-Lesquin,France,27,27,54,,,
+2022,1,JAN,3/1/2022,LFRB,Brest-Bretagne,France,20,20,40,,,
+2022,1,JAN,3/1/2022,LFRD,Dinard-Pleurtuit-Saint-Malo,France,2,3,5,,,
+2022,1,JAN,3/1/2022,LFRG,Deauville-Normandie,France,2,2,4,,,
+2022,1,JAN,3/1/2022,LFRH,Lorient-Lann BihouÃ©,France,6,7,13,,,
+2022,1,JAN,3/1/2022,LFRK,Caen-Carpiquet,France,10,9,19,,,
+2022,1,JAN,3/1/2022,LFRM,Le Mans,France,3,3,6,,,
+2022,1,JAN,3/1/2022,LFRN,Rennes-Saint-Jacques,France,21,18,39,,,
+2022,1,JAN,3/1/2022,LFRQ,Quimper-Pluguffan,France,4,4,8,,,
+2022,1,JAN,3/1/2022,LFRS,Nantes-Atlantique,France,62,65,127,,,
+2022,1,JAN,3/1/2022,LFRZ,Saint-Nazaire-Montoir,France,3,3,6,,,
+2022,1,JAN,3/1/2022,LFSB,BÃ¢le-Mulhouse,France,92,88,180,91,86,177
+2022,1,JAN,3/1/2022,LFSL,Brive-Souillac,France,4,4,8,,,
+2022,1,JAN,3/1/2022,LFST,Strasbourg-Entzheim,France,18,18,36,,,
+2022,1,JAN,3/1/2022,LFTH,HyÃ¨res-Le Palyvestre,France,12,13,25,,,
+2022,1,JAN,3/1/2022,LFTW,NÃ®mes-Garons,France,7,7,14,,,
+2022,1,JAN,3/1/2022,UGTB,Tbilisi,Georgia,39,36,75,,,
+2022,1,JAN,3/1/2022,EDDB,Berlin - Brandenburg,Germany,215,211,426,215,208,423
+2022,1,JAN,3/1/2022,EDDC,Dresden,Germany,15,14,29,13,10,23
+2022,1,JAN,3/1/2022,EDDE,Erfurt,Germany,3,3,6,3,3,6
+2022,1,JAN,3/1/2022,EDDF,Frankfurt,Germany,458,466,924,458,466,924
+2022,1,JAN,3/1/2022,EDDG,Muenster-Osnabrueck,Germany,15,16,31,11,14,25
+2022,1,JAN,3/1/2022,EDDH,Hamburg,Germany,115,115,230,111,111,222
+2022,1,JAN,3/1/2022,EDDK,Cologne-Bonn,Germany,137,134,271,143,136,279
+2022,1,JAN,3/1/2022,EDDL,Dusseldorf,Germany,147,150,297,147,149,296
+2022,1,JAN,3/1/2022,EDDM,Munich,Germany,321,320,641,321,320,641
+2022,1,JAN,3/1/2022,EDDN,Nuremberg,Germany,26,23,49,26,22,48
+2022,1,JAN,3/1/2022,EDDP,Leipzig-Halle,Germany,79,90,169,81,89,170
+2022,1,JAN,3/1/2022,EDDR,Saarbruecken,Germany,3,3,6,3,3,6
+2022,1,JAN,3/1/2022,EDDS,Stuttgart,Germany,73,67,140,74,67,141
+2022,1,JAN,3/1/2022,EDDV,Hanover,Germany,57,57,114,54,54,108
+2022,1,JAN,3/1/2022,EDDW,Bremen,Germany,16,17,33,16,17,33
+2022,1,JAN,3/1/2022,LGAV,Athens,Greece,245,242,487,246,242,488
+2022,1,JAN,3/1/2022,LGIR,Heraklion,Greece,19,19,38,,,
+2022,1,JAN,3/1/2022,LGKF,Kefallinia,Greece,3,3,6,,,
+2022,1,JAN,3/1/2022,LGKO,Kos,Greece,5,5,10,,,
+2022,1,JAN,3/1/2022,LGKR,Corfu,Greece,7,8,15,,,
+2022,1,JAN,3/1/2022,LGMK,Mikonos,Greece,2,2,4,,,
+2022,1,JAN,3/1/2022,LGRP,Rodos,Greece,10,10,20,,,
+2022,1,JAN,3/1/2022,LGSA,Khania - Souda,Greece,11,10,21,,,
+2022,1,JAN,3/1/2022,LGSR,Santorini,Greece,9,9,18,,,
+2022,1,JAN,3/1/2022,LGTS,Thessaloniki,Greece,63,63,126,,,
+2022,1,JAN,3/1/2022,LGZA,Zakinthos,Greece,1,1,2,,,
+2022,1,JAN,3/1/2022,LHBP,Budapest - Ferihegy,Hungary,120,117,237,120,117,237
+2022,1,JAN,3/1/2022,EICK,Cork,Ireland,19,19,38,19,20,39
+2022,1,JAN,3/1/2022,EIDL,Donegal,Ireland,2,2,4,,,
+2022,1,JAN,3/1/2022,EIDW,Dublin,Ireland,244,249,493,244,248,492
+2022,1,JAN,3/1/2022,EIKN,Connaught,Ireland,6,6,12,,,
+2022,1,JAN,3/1/2022,EIKY,Kerry - Farranfore,Ireland,5,6,11,,,
+2022,1,JAN,3/1/2022,EINN,Shannon,Ireland,19,19,38,,,
+2022,1,JAN,3/1/2022,LLBG,Tel Aviv - Ben Gurion International,Israel,112,113,225,,,
+2022,1,JAN,3/1/2022,LIBR,Brindisi,Italy,28,28,56,,,
+2022,1,JAN,3/1/2022,LICC,Catania,Italy,91,90,181,90,90,180
+2022,1,JAN,3/1/2022,LICJ,Palermo Falcone-Borsellino,Italy,78,78,156,,,
+2022,1,JAN,3/1/2022,LIMC,Milan - Malpensa,Italy,246,239,485,245,240,485
+2022,1,JAN,3/1/2022,LIME,Bergamo,Italy,123,126,249,122,125,247
+2022,1,JAN,3/1/2022,LIMF,Torino Caselle,Italy,52,53,105,52,53,105
+2022,1,JAN,3/1/2022,LIML,Milan - Linate,Italy,120,121,241,120,121,241
+2022,1,JAN,3/1/2022,LIPE,Bologna,Italy,98,96,194,,,
+2022,1,JAN,3/1/2022,LIPH,Treviso,Italy,27,27,54,,,
+2022,1,JAN,3/1/2022,LIPZ,Venice,Italy,81,79,160,81,79,160
+2022,1,JAN,3/1/2022,LIRA,Rome - Ciampino,Italy,45,44,89,,,
+2022,1,JAN,3/1/2022,LIRF,Rome - Fiumicino,Italy,262,258,520,260,258,518
+2022,1,JAN,3/1/2022,LIRN,Naples,Italy,87,89,176,84,87,171
+2022,1,JAN,3/1/2022,LIRP,Pisa San Giusto,Italy,49,47,96,,,
+2022,1,JAN,3/1/2022,EVRA,Riga,Latvia,81,83,164,81,80,161
+2022,1,JAN,3/1/2022,EYKA,Kaunas,Lithuania,15,18,33,,,
+2022,1,JAN,3/1/2022,EYPA,Palanga,Lithuania,3,3,6,,,
+2022,1,JAN,3/1/2022,EYSA,Siauliai,Lithuania,0,0,0,,,
+2022,1,JAN,3/1/2022,EYVI,Vilnius,Lithuania,42,37,79,,,
+2022,1,JAN,3/1/2022,ELLX,Luxembourg,Luxembourg,97,93,190,97,90,187
+2022,1,JAN,3/1/2022,LMML,Malta,Malta,65,67,132,66,69,135
+2022,1,JAN,3/1/2022,LUKK,ChiÈ™inÄƒu,Moldova,30,33,63,,,
+2022,1,JAN,3/1/2022,LYPG,Podgorica,Montenegro,12,12,24,,,
+2022,1,JAN,3/1/2022,GMAD,Al Massira,Morocco,6,6,12,,,
+2022,1,JAN,3/1/2022,GMFF,SaÃ¯ss,Morocco,1,2,3,,,
+2022,1,JAN,3/1/2022,GMME,Rabat-SalÃ©,Morocco,5,2,7,,,
+2022,1,JAN,3/1/2022,GMMN,Mohammed V International,Morocco,26,26,52,,,
+2022,1,JAN,3/1/2022,GMMX,Menara,Morocco,4,4,8,,,
+2022,1,JAN,3/1/2022,GMTT,Ibn Batouta,Morocco,1,3,4,,,
+2022,1,JAN,3/1/2022,EHAM,Amsterdam - Schiphol,Netherlands,536,529,1065,537,529,1066
+2022,1,JAN,3/1/2022,EHBK,Maastricht-Aachen,Netherlands,12,12,24,,,
+2022,1,JAN,3/1/2022,EHGG,Groningen,Netherlands,18,20,38,,,
+2022,1,JAN,3/1/2022,EHLE,Lelystad,Netherlands,5,5,10,,,
+2022,1,JAN,3/1/2022,EHRD,Rotterdam,Netherlands,22,19,41,,,
+2022,1,JAN,3/1/2022,ENAL,Alesund,Norway,24,24,48,,,
+2022,1,JAN,3/1/2022,ENAN,Andenes,Norway,5,5,10,,,
+2022,1,JAN,3/1/2022,ENAT,Alta,Norway,14,13,27,,,
+2022,1,JAN,3/1/2022,ENBL,Forde Bringeland,Norway,4,5,9,,,
+2022,1,JAN,3/1/2022,ENBN,Bronnoysund Bronnoy,Norway,8,8,16,,,
+2022,1,JAN,3/1/2022,ENBO,BodÃ¸,Norway,61,63,124,,,
+2022,1,JAN,3/1/2022,ENBR,Bergen,Norway,123,121,244,,,
+2022,1,JAN,3/1/2022,ENBS,Batsfjord,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENBV,BerlevÃ¥g,Norway,3,3,6,,,
+2022,1,JAN,3/1/2022,ENCN,Kristiansand Kjevik,Norway,18,18,36,,,
+2022,1,JAN,3/1/2022,ENDU,Bardufoss,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENEV,Harstad - Narvik Evenes,Norway,15,14,29,,,
+2022,1,JAN,3/1/2022,ENFL,FlorÃ¸,Norway,10,11,21,,,
+2022,1,JAN,3/1/2022,ENGM,Oslo - Gardermoen,Norway,270,267,537,270,268,538
+2022,1,JAN,3/1/2022,ENHD,Haugesund,Norway,12,13,25,,,
+2022,1,JAN,3/1/2022,ENHF,Hammerfest,Norway,14,14,28,,,
+2022,1,JAN,3/1/2022,ENHV,HonningsvÃ¥g Valan,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENKB,Kristiansund Kvernberget,Norway,12,11,23,,,
+2022,1,JAN,3/1/2022,ENKR,Kirkenes HÃ¸ybuktmoen,Norway,10,10,20,,,
+2022,1,JAN,3/1/2022,ENLK,Leknes,Norway,7,7,14,,,
+2022,1,JAN,3/1/2022,ENMH,Mehamn,Norway,5,5,10,,,
+2022,1,JAN,3/1/2022,ENML,Molde Ã…rÃ¸,Norway,8,8,16,,,
+2022,1,JAN,3/1/2022,ENMS,MosjÃ¸en KjÃ¦rstad,Norway,10,10,20,,,
+2022,1,JAN,3/1/2022,ENNA,Lakselv Banak,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENNM,Namsos HÃ¸knesÃ¸ra,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENOV,OrstaÂ¿Volda Hovden,Norway,6,6,12,,,
+2022,1,JAN,3/1/2022,ENRA,Mo i Rana RÃ¸ssvoll,Norway,11,11,22,,,
+2022,1,JAN,3/1/2022,ENRM,Rorvik Ryum,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENRO,Roros,Norway,3,2,5,,,
+2022,1,JAN,3/1/2022,ENRS,Rost,Norway,2,2,4,,,
+2022,1,JAN,3/1/2022,ENSB,Svalbard Longyear,Norway,3,3,6,,,
+2022,1,JAN,3/1/2022,ENSD,Sandane  Anda,Norway,2,3,5,,,
+2022,1,JAN,3/1/2022,ENSG,Sogndal HaukÃ¥sen,Norway,7,7,14,,,
+2022,1,JAN,3/1/2022,ENSH,SvolvÃ¦r Helle,Norway,6,6,12,,,
+2022,1,JAN,3/1/2022,ENSK,Stokmarknes Skagen,Norway,11,11,22,,,
+2022,1,JAN,3/1/2022,ENSR,Sorkjosen,Norway,2,2,4,,,
+2022,1,JAN,3/1/2022,ENSS,VardÃ¸ Svartnes,Norway,4,4,8,,,
+2022,1,JAN,3/1/2022,ENST,SandnessjÃ¸en Stokka,Norway,2,2,4,,,
+2022,1,JAN,3/1/2022,ENTC,TromsÃ¸,Norway,67,66,133,,,
+2022,1,JAN,3/1/2022,ENVA,Trondheim,Norway,79,78,157,,,
+2022,1,JAN,3/1/2022,ENVD,VadsÃ¸,Norway,11,11,22,,,
+2022,1,JAN,3/1/2022,ENVR,VÃ¦rÃ¸y,Norway,2,2,4,,,
+2022,1,JAN,3/1/2022,ENZV,Stavanger,Norway,85,87,172,,,
+2022,1,JAN,3/1/2022,EPBY,Bydgoszcz,Poland,2,2,4,,,
+2022,1,JAN,3/1/2022,EPGD,Gdansk,Poland,56,50,106,,,
+2022,1,JAN,3/1/2022,EPKK,Krakow - Balice,Poland,88,90,178,,,
+2022,1,JAN,3/1/2022,EPKT,Katowice - Pyrzowice,Poland,36,40,76,,,
+2022,1,JAN,3/1/2022,EPLB,Lublin,Poland,3,3,6,,,
+2022,1,JAN,3/1/2022,EPLL,Lodz - Lublinek,Poland,4,4,8,,,
+2022,1,JAN,3/1/2022,EPMO,Warszawa - Modlin,Poland,32,31,63,,,
+2022,1,JAN,3/1/2022,EPPO,Poznan - Lawica,Poland,25,25,50,,,
+2022,1,JAN,3/1/2022,EPRZ,Rzeszow - Jasionka,Poland,8,7,15,,,
+2022,1,JAN,3/1/2022,EPSC,Szczecin - GoleniÃ³w,Poland,5,5,10,,,
+2022,1,JAN,3/1/2022,EPSY,Olsztyn-Mazury,Poland,3,3,6,,,
+2022,1,JAN,3/1/2022,EPWA,Warszawa - Chopina,Poland,186,195,381,186,195,381
+2022,1,JAN,3/1/2022,EPWR,Wroclaw - Strachowice,Poland,33,34,67,,,
+2022,1,JAN,3/1/2022,EPZG,Zielona Gora - Babimost,Poland,1,1,2,,,
+2022,1,JAN,3/1/2022,LPAZ,Santa Maria,Portugal,4,6,10,,,
+2022,1,JAN,3/1/2022,LPCS,Cascais,Portugal,3,3,6,,,
+2022,1,JAN,3/1/2022,LPFL,Flores,Portugal,4,4,8,,,
+2022,1,JAN,3/1/2022,LPFR,Faro,Portugal,48,51,99,48,50,98
+2022,1,JAN,3/1/2022,LPHR,Horta,Portugal,8,8,16,,,
+2022,1,JAN,3/1/2022,LPMA,Madeira,Portugal,45,46,91,,,
+2022,1,JAN,3/1/2022,LPPD,Ponta Delgada,Portugal,25,25,50,,,
+2022,1,JAN,3/1/2022,LPPR,Porto,Portugal,118,125,243,118,125,243
+2022,1,JAN,3/1/2022,LPPS,Porto Santo,Portugal,3,3,6,,,
+2022,1,JAN,3/1/2022,LPPT,Lisbon,Portugal,255,269,524,258,268,526
+2022,1,JAN,3/1/2022,LWSK,Skopje,Republic of North Macedonia,22,23,45,,,
+2022,1,JAN,3/1/2022,LRBS,Bucharest - BÄƒneasa,Romania,3,4,7,,,
+2022,1,JAN,3/1/2022,LROP,Bucharest - Otopeni,Romania,150,152,302,151,152,303
+2022,1,JAN,3/1/2022,LYBE,Belgrade - Nikola Tesla,Serbia,81,86,167,,,
+2022,1,JAN,3/1/2022,LZIB,Bratislava,Slovakia,21,21,42,21,21,42
+2022,1,JAN,3/1/2022,LJLJ,Ljubljana,Slovenia,28,27,55,28,27,55
+2022,1,JAN,3/1/2022,LJMB,Maribor,Slovenia,4,3,7,,,
+2022,1,JAN,3/1/2022,LJPZ,PortoroÅ¾,Slovenia,0,0,0,,,
+2022,1,JAN,3/1/2022,GCFV,Fuerteventura,Spain,73,73,146,73,71,144
+2022,1,JAN,3/1/2022,GCGM,La Gomera,Spain,2,2,4,,,
+2022,1,JAN,3/1/2022,GCHI,Hierro,Spain,5,5,10,,,
+2022,1,JAN,3/1/2022,GCLA,La Palma,Spain,21,21,42,,,
+2022,1,JAN,3/1/2022,GCLP,Gran Canaria,Spain,178,179,357,175,169,344
+2022,1,JAN,3/1/2022,GCRR,Lanzarote,Spain,82,82,164,82,78,160
+2022,1,JAN,3/1/2022,GCTS,Tenerife Sur - Reina Sofia,Spain,101,103,204,101,99,200
+2022,1,JAN,3/1/2022,GCXO,Tenerife North,Spain,79,78,157,79,76,155
+2022,1,JAN,3/1/2022,GEML,Melilla,Spain,10,10,20,,,
+2022,1,JAN,3/1/2022,LEAL,Alicante,Spain,95,97,192,95,94,189
+2022,1,JAN,3/1/2022,LEAM,Almeria,Spain,7,7,14,,,
+2022,1,JAN,3/1/2022,LEAS,Asturias,Spain,16,16,32,,,
+2022,1,JAN,3/1/2022,LEBB,Bilbao,Spain,49,44,93,48,43,91
+2022,1,JAN,3/1/2022,LEBL,Barcelona,Spain,374,375,749,371,372,743
+2022,1,JAN,3/1/2022,LEBZ,Badajoz,Spain,3,5,8,,,
+2022,1,JAN,3/1/2022,LECO,La Coruna,Spain,13,12,25,,,
+2022,1,JAN,3/1/2022,LECU,Madrid - Cuatro Viento,Spain,6,4,10,,,
+2022,1,JAN,3/1/2022,LEDA,Lleida - Alguaire,Spain,3,4,7,,,
+2022,1,JAN,3/1/2022,LEGE,Gerona,Spain,15,14,29,,,
+2022,1,JAN,3/1/2022,LEGR,Granada,Spain,12,12,24,,,
+2022,1,JAN,3/1/2022,LEGT,Madrid - Getafe,Spain,3,2,5,,,
+2022,1,JAN,3/1/2022,LEIB,Ibiza,Spain,44,45,89,43,44,87
+2022,1,JAN,3/1/2022,LEJR,Jerez De La Frontera,Spain,13,12,25,,,
+2022,1,JAN,3/1/2022,LELC,Murcia San Javier,Spain,1,0,1,,,
+2022,1,JAN,3/1/2022,LELL,Sabadell,Spain,5,4,9,,,
+2022,1,JAN,3/1/2022,LELN,Leon,Spain,2,2,4,,,
+2022,1,JAN,3/1/2022,LEMD,Madrid - Barajas,Spain,425,434,859,422,424,846
+2022,1,JAN,3/1/2022,LEMG,MÃ¡laga,Spain,161,164,325,157,161,318
+2022,1,JAN,3/1/2022,LEMH,Mahon,Spain,22,22,44,,,
+2022,1,JAN,3/1/2022,LEMI,RegiÃ³n de Murcia International Airport,Spain,2,2,4,,,
+2022,1,JAN,3/1/2022,LEMO,Seville - Moron,Spain,5,5,10,,,
+2022,1,JAN,3/1/2022,LEPA,Palma de Mallorca,Spain,155,152,307,154,149,303
+2022,1,JAN,3/1/2022,LEPP,Noain Pamplona,Spain,2,2,4,,,
+2022,1,JAN,3/1/2022,LERE,Valencia - Requena,Spain,1,0,1,,,
+2022,1,JAN,3/1/2022,LERJ,Logrono,Spain,1,0,1,,,
+2022,1,JAN,3/1/2022,LERT,Rota,Spain,5,4,9,,,
+2022,1,JAN,3/1/2022,LESB,Son Bonet,Spain,1,0,1,,,
+2022,1,JAN,3/1/2022,LESO,San Sebastian,Spain,4,4,8,,,
+2022,1,JAN,3/1/2022,LEST,Santiago,Spain,26,26,52,,,
+2022,1,JAN,3/1/2022,LEVC,Valencia,Spain,89,85,174,88,83,171
+2022,1,JAN,3/1/2022,LEVD,Valladolid,Spain,3,5,8,,,
+2022,1,JAN,3/1/2022,LEVT,Vitoria,Spain,18,15,33,,,
+2022,1,JAN,3/1/2022,LEVX,Vigo,Spain,12,11,23,,,
+2022,1,JAN,3/1/2022,LEXJ,Santander,Spain,14,14,28,,,
+2022,1,JAN,3/1/2022,LEZG,Zaragoza,Spain,7,6,13,,,
+2022,1,JAN,3/1/2022,LEZL,Sevilla,Spain,70,69,139,68,64,132
+2022,1,JAN,3/1/2022,ESGG,GÃ¶teborg,Sweden,68,68,136,69,68,137
+2022,1,JAN,3/1/2022,ESSA,Stockholm - Arlanda,Sweden,214,217,431,215,217,432
+2022,1,JAN,3/1/2022,ESSB,Stockholm - Bromma,Sweden,36,33,69,,,
+2022,1,JAN,3/1/2022,LSGG,Geneva,Switzerland,215,207,422,215,207,422
+2022,1,JAN,3/1/2022,LSGS,Sion,Switzerland,31,28,59,,,
+2022,1,JAN,3/1/2022,LSZH,ZÃ¼rich,Switzerland,245,244,489,245,244,489
+2022,1,JAN,3/1/2022,LTAC,Ankara - EsenboÄŸa,Turkey,93,93,186,,,
+2022,1,JAN,3/1/2022,LTAI,Antalya,Turkey,92,96,188,,,
+2022,1,JAN,3/1/2022,LTBA,Istanbul AtatÃ¼rk,Turkey,28,33,61,,,
+2022,1,JAN,3/1/2022,LTBJ,Izmir - Adnan Menderes,Turkey,73,74,147,,,
+2022,1,JAN,3/1/2022,LTFJ,Istanbul Sabiha GÃ¶kÃ§en,Turkey,262,269,531,,,
+2022,1,JAN,3/1/2022,LTFM,iGA Istanbul Airport,Turkey,473,478,951,471,478,949
+2022,1,JAN,3/1/2022,UKBB,Kiev - Boryspil,Ukraine,113,119,232,,,
+2022,1,JAN,3/1/2022,EGAA,Belfast - Aldergrove,United Kingdom,58,58,116,,,
+2022,1,JAN,3/1/2022,EGAC,Belfast - City Airport,United Kingdom,24,24,48,,,
+2022,1,JAN,3/1/2022,EGAE,Londonderry - Eglinton,United Kingdom,7,6,13,,,
+2022,1,JAN,3/1/2022,EGBB,Birmingham,United Kingdom,78,77,155,80,79,159
+2022,1,JAN,3/1/2022,EGCC,Manchester,United Kingdom,177,182,359,,,
+2022,1,JAN,3/1/2022,EGGD,Bristol,United Kingdom,70,71,141,72,72,144
+2022,1,JAN,3/1/2022,EGGW,London - Luton,United Kingdom,170,173,343,171,174,345
+2022,1,JAN,3/1/2022,EGHI,Southampton,United Kingdom,17,16,33,,,
+2022,1,JAN,3/1/2022,EGKB,Biggin Hill,United Kingdom,37,42,79,,,
+2022,1,JAN,3/1/2022,EGKK,London - Gatwick,United Kingdom,206,203,409,207,203,410
+2022,1,JAN,3/1/2022,EGLC,London - City,United Kingdom,40,43,83,40,43,83
+2022,1,JAN,3/1/2022,EGLF,Farnborough,United Kingdom,48,58,106,,,
+2022,1,JAN,3/1/2022,EGLL,London - Heathrow,United Kingdom,439,444,883,439,443,882
+2022,1,JAN,3/1/2022,EGNT,Newcastle,United Kingdom,36,34,70,38,35,73
+2022,1,JAN,3/1/2022,EGNX,East Midlands,United Kingdom,46,41,87,,,
+2022,1,JAN,3/1/2022,EGPD,Aberdeen,United Kingdom,34,34,68,33,34,67
+2022,1,JAN,3/1/2022,EGPF,Glasgow,United Kingdom,65,69,134,68,71,139
+2022,1,JAN,3/1/2022,EGPH,Edinburgh,United Kingdom,109,110,219,108,110,218
+2022,1,JAN,3/1/2022,EGSS,London - Stansted,United Kingdom,193,202,395,193,203,396
+2022,1,JAN,4/1/2022,LATI,Tirana,Albania,46,44,90,,,
+2022,1,JAN,4/1/2022,UDYZ,Yerevan,Armenia,26,25,51,,,
+2022,1,JAN,4/1/2022,LOWG,Graz,Austria,14,12,26,,,
+2022,1,JAN,4/1/2022,LOWI,Innsbruck,Austria,24,21,45,,,
+2022,1,JAN,4/1/2022,LOWK,Klagenfurt,Austria,3,3,6,,,
+2022,1,JAN,4/1/2022,LOWL,Linz,Austria,11,12,23,,,
+2022,1,JAN,4/1/2022,LOWS,Salzburg,Austria,27,24,51,,,
+2022,1,JAN,4/1/2022,LOWW,Vienna,Austria,175,178,353,175,178,353
+2022,1,JAN,4/1/2022,EBAW,Antwerp,Belgium,15,14,29,,,
+2022,1,JAN,4/1/2022,EBBR,Brussels,Belgium,191,192,383,193,195,388
+2022,1,JAN,4/1/2022,EBCI,Charleroi,Belgium,59,58,117,59,58,117
+2022,1,JAN,4/1/2022,EBLG,LiÃ¨ge,Belgium,60,58,118,,,
+2022,1,JAN,4/1/2022,EBOS,Ostend-Bruges,Belgium,9,10,19,,,
+2022,1,JAN,4/1/2022,LQSA,Sarajevo,Bosnia and Herzegovina,22,21,43,,,
+2022,1,JAN,4/1/2022,LBSF,Sofia,Bulgaria,73,71,144,73,71,144
+2022,1,JAN,4/1/2022,LDZA,Zagreb,Croatia,50,50,100,50,50,100
+2022,1,JAN,4/1/2022,LCLK,Larnaca,Cyprus,39,41,80,,,
+2022,1,JAN,4/1/2022,LCPH,Paphos,Cyprus,15,15,30,,,
+2022,1,JAN,4/1/2022,LKKV,Karlovy Vary,Czech Republic,1,1,2,,,
+2022,1,JAN,4/1/2022,LKMT,Ostrava,Czech Republic,3,3,6,,,
+2022,1,JAN,4/1/2022,LKPR,Prague,Czech Republic,87,90,177,86,90,176
+2022,1,JAN,4/1/2022,LKTB,Brno-TuÅ™any,Czech Republic,5,5,10,,,
+2022,1,JAN,4/1/2022,EKCH,Copenhagen - Kastrup,Denmark,215,215,430,215,215,430
+2022,1,JAN,4/1/2022,EETN,Tallinn,Estonia,46,43,89,46,43,89
+2022,1,JAN,4/1/2022,EETU,Tartu,Estonia,2,1,3,,,
+2022,1,JAN,4/1/2022,EFHK,Helsinki - Vantaa,Finland,159,159,318,159,159,318
+2022,1,JAN,4/1/2022,LFAQ,Albert-Bray,France,0,0,0,,,
+2022,1,JAN,4/1/2022,LFBA,Agen-La Garenne,France,3,3,6,,,
+2022,1,JAN,4/1/2022,LFBD,Bordeaux-MÃ©rignac,France,48,50,98,,,
+2022,1,JAN,4/1/2022,LFBE,Bergerac-RoumaniÃ¨re,France,8,8,16,,,
+2022,1,JAN,4/1/2022,LFBH,La Rochelle-Ile de RÃ©,France,3,3,6,,,
+2022,1,JAN,4/1/2022,LFBI,Poitiers-Biard,France,7,9,16,,,
+2022,1,JAN,4/1/2022,LFBL,Limoges-Bellegarde,France,9,14,23,,,
+2022,1,JAN,4/1/2022,LFBO,Toulouse-Blagnac,France,67,65,132,60,58,118
+2022,1,JAN,4/1/2022,LFBP,Pau-PyrÃ©nÃ©es,France,9,8,17,,,
+2022,1,JAN,4/1/2022,LFBT,Tarbes-Lourdes PyrÃ©nÃ©es,France,7,9,16,,,
+2022,1,JAN,4/1/2022,LFBZ,Biarritz-Bayonne-Anglet,France,8,7,15,,,
+2022,1,JAN,4/1/2022,LFCR,Rodez-Marcillac,France,6,6,12,,,
+2022,1,JAN,4/1/2022,LFGJ,DÃ´le-Tavaux,France,2,4,6,,,
+2022,1,JAN,4/1/2022,LFJL,Metz-Nancy-Lorraine,France,1,1,2,,,
+2022,1,JAN,4/1/2022,LFJR,Angers-MarcÃ©,France,4,3,7,,,
+2022,1,JAN,4/1/2022,LFKB,Bastia-Poretta,France,16,16,32,,,
+2022,1,JAN,4/1/2022,LFKC,Calvi-Sainte-Catherine,France,5,6,11,,,
+2022,1,JAN,4/1/2022,LFKF,Figari-Sud Corse,France,4,4,8,,,
+2022,1,JAN,4/1/2022,LFKJ,Ajaccio-NapolÃ©on-Bonaparte,France,16,14,30,,,
+2022,1,JAN,4/1/2022,LFLB,ChambÃ©ry-Aix-les-Bains,France,23,22,45,,,
+2022,1,JAN,4/1/2022,LFLC,Clermont-Ferrand-Auvergne,France,11,12,23,,,
+2022,1,JAN,4/1/2022,LFLI,Annemasse,France,3,3,6,,,
+2022,1,JAN,4/1/2022,LFLL,Lyon-Saint-ExupÃ©ry,France,77,77,154,77,75,152
+2022,1,JAN,4/1/2022,LFLP,Annecy-Meythet,France,6,5,11,,,
+2022,1,JAN,4/1/2022,LFLS,Grenoble-IsÃ¨re,France,10,11,21,,,
+2022,1,JAN,4/1/2022,LFLX,ChÃ¢teauroux-DÃ©ols,France,1,3,4,,,
+2022,1,JAN,4/1/2022,LFLY,Lyon-Bron,France,13,13,26,,,
+2022,1,JAN,4/1/2022,LFMD,Cannes-Mandelieu,France,20,21,41,,,
+2022,1,JAN,4/1/2022,LFMH,Saint-Etienne-BouthÃ©on,France,5,5,10,,,
+2022,1,JAN,4/1/2022,LFMI,Istres-Le TubÃ©,France,7,8,15,,,
+2022,1,JAN,4/1/2022,LFMK,Carcassonne-Salvaza,France,9,6,15,,,
+2022,1,JAN,4/1/2022,LFML,Marseille-Provence,France,86,86,172,83,82,165
+2022,1,JAN,4/1/2022,LFMN,Nice-CÃ´te dâ€™Azur,France,93,93,186,93,90,183
+2022,1,JAN,4/1/2022,LFMP,Perpignan-Rivesaltes,France,16,15,31,,,
+2022,1,JAN,4/1/2022,LFMT,Montpellier-MÃ©diterranÃ©e,France,25,24,49,,,
+2022,1,JAN,4/1/2022,LFMU,BÃ©ziers-Vias,France,7,8,15,,,
+2022,1,JAN,4/1/2022,LFMV,Avignon-Caumont,France,13,15,28,,,
+2022,1,JAN,4/1/2022,LFOB,Beauvais-TillÃ©,France,37,37,74,,,
+2022,1,JAN,4/1/2022,LFOH,Le Havre-Octeville,France,2,2,4,,,
+2022,1,JAN,4/1/2022,LFOK,ChÃ¢lons-Vatry,France,5,6,11,,,
+2022,1,JAN,4/1/2022,LFOP,Rouen,France,4,3,7,,,
+2022,1,JAN,4/1/2022,LFOT,Tours-Val de Loire,France,5,6,11,,,
+2022,1,JAN,4/1/2022,LFPB,Paris-Le Bourget,France,64,67,131,,,
+2022,1,JAN,4/1/2022,LFPG,Paris-Charles-de-Gaulle,France,474,467,941,475,466,941
+2022,1,JAN,4/1/2022,LFPN,Toussus-le-Noble,France,19,19,38,,,
+2022,1,JAN,4/1/2022,LFPO,Paris-Orly,France,216,218,434,216,218,434
+2022,1,JAN,4/1/2022,LFQQ,Lille-Lesquin,France,11,10,21,,,
+2022,1,JAN,4/1/2022,LFRB,Brest-Bretagne,France,16,16,32,,,
+2022,1,JAN,4/1/2022,LFRD,Dinard-Pleurtuit-Saint-Malo,France,2,3,5,,,
+2022,1,JAN,4/1/2022,LFRG,Deauville-Normandie,France,1,2,3,,,
+2022,1,JAN,4/1/2022,LFRH,Lorient-Lann BihouÃ©,France,6,6,12,,,
+2022,1,JAN,4/1/2022,LFRK,Caen-Carpiquet,France,4,5,9,,,
+2022,1,JAN,4/1/2022,LFRM,Le Mans,France,6,5,11,,,
+2022,1,JAN,4/1/2022,LFRN,Rennes-Saint-Jacques,France,14,13,27,,,
+2022,1,JAN,4/1/2022,LFRO,Lannion,France,2,2,4,,,
+2022,1,JAN,4/1/2022,LFRQ,Quimper-Pluguffan,France,4,5,9,,,
+2022,1,JAN,4/1/2022,LFRS,Nantes-Atlantique,France,26,28,54,,,
+2022,1,JAN,4/1/2022,LFRZ,Saint-Nazaire-Montoir,France,2,2,4,,,
+2022,1,JAN,4/1/2022,LFSB,BÃ¢le-Mulhouse,France,73,76,149,72,75,147
+2022,1,JAN,4/1/2022,LFSL,Brive-Souillac,France,7,7,14,,,
+2022,1,JAN,4/1/2022,LFST,Strasbourg-Entzheim,France,6,8,14,,,
+2022,1,JAN,4/1/2022,LFTH,HyÃ¨res-Le Palyvestre,France,7,6,13,,,
+2022,1,JAN,4/1/2022,LFTW,NÃ®mes-Garons,France,6,7,13,,,
+2022,1,JAN,4/1/2022,UGTB,Tbilisi,Georgia,33,37,70,,,
+2022,1,JAN,4/1/2022,EDDB,Berlin - Brandenburg,Germany,166,170,336,166,168,334
+2022,1,JAN,4/1/2022,EDDC,Dresden,Germany,13,12,25,12,10,22
+2022,1,JAN,4/1/2022,EDDE,Erfurt,Germany,6,5,11,6,5,11
+2022,1,JAN,4/1/2022,EDDF,Frankfurt,Germany,413,423,836,413,423,836
+2022,1,JAN,4/1/2022,EDDG,Muenster-Osnabrueck,Germany,16,19,35,9,15,24
+2022,1,JAN,4/1/2022,EDDH,Hamburg,Germany,99,99,198,96,92,188
+2022,1,JAN,4/1/2022,EDDK,Cologne-Bonn,Germany,142,148,290,143,144,287
+2022,1,JAN,4/1/2022,EDDL,Dusseldorf,Germany,131,133,264,130,133,263
+2022,1,JAN,4/1/2022,EDDM,Munich,Germany,275,286,561,275,286,561
+2022,1,JAN,4/1/2022,EDDN,Nuremberg,Germany,22,25,47,23,24,47
+2022,1,JAN,4/1/2022,EDDP,Leipzig-Halle,Germany,119,120,239,122,121,243
+2022,1,JAN,4/1/2022,EDDR,Saarbruecken,Germany,3,2,5,3,2,5
+2022,1,JAN,4/1/2022,EDDS,Stuttgart,Germany,57,57,114,58,57,115
+2022,1,JAN,4/1/2022,EDDV,Hanover,Germany,51,47,98,51,46,97
+2022,1,JAN,4/1/2022,EDDW,Bremen,Germany,21,18,39,22,19,41
+2022,1,JAN,4/1/2022,LGAV,Athens,Greece,207,205,412,207,205,412
+2022,1,JAN,4/1/2022,LGIR,Heraklion,Greece,15,17,32,,,
+2022,1,JAN,4/1/2022,LGKO,Kos,Greece,7,7,14,,,
+2022,1,JAN,4/1/2022,LGKR,Corfu,Greece,5,5,10,,,
+2022,1,JAN,4/1/2022,LGMK,Mikonos,Greece,5,5,10,,,
+2022,1,JAN,4/1/2022,LGRP,Rodos,Greece,8,9,17,,,
+2022,1,JAN,4/1/2022,LGSA,Khania - Souda,Greece,16,15,31,,,
+2022,1,JAN,4/1/2022,LGSK,Skiathos,Greece,1,1,2,,,
+2022,1,JAN,4/1/2022,LGSR,Santorini,Greece,5,5,10,,,
+2022,1,JAN,4/1/2022,LGTS,Thessaloniki,Greece,51,53,104,,,
+2022,1,JAN,4/1/2022,LHBP,Budapest - Ferihegy,Hungary,105,103,208,105,102,207
+2022,1,JAN,4/1/2022,EICK,Cork,Ireland,19,19,38,23,25,48
+2022,1,JAN,4/1/2022,EIDL,Donegal,Ireland,2,2,4,,,
+2022,1,JAN,4/1/2022,EIDW,Dublin,Ireland,210,212,422,210,212,422
+2022,1,JAN,4/1/2022,EIKN,Connaught,Ireland,5,5,10,,,
+2022,1,JAN,4/1/2022,EIKY,Kerry - Farranfore,Ireland,4,5,9,,,
+2022,1,JAN,4/1/2022,EINN,Shannon,Ireland,18,16,34,,,
+2022,1,JAN,4/1/2022,EIWF,Waterford,Ireland,1,0,1,,,
+2022,1,JAN,4/1/2022,EIWT,Weston,Ireland,1,1,2,,,
+2022,1,JAN,4/1/2022,LLBG,Tel Aviv - Ben Gurion International,Israel,102,102,204,,,
+2022,1,JAN,4/1/2022,LIBR,Brindisi,Italy,25,25,50,,,
